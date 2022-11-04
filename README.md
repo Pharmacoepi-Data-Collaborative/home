@@ -11,18 +11,6 @@ On these pages, you will find our online knowledge hub - a resource for pharmaco
 
 The use of big data sets, such as large UK primary care databases like Clinical Practice Research Datalink (CPRD) and  The Health Improvement Network (THIN), is increasing among health researchers, as they provide a unique opportunity to work with large sample sizes (CPRD has over 50 million patients). Prescriptions are often one of the best coded areas in electronic health care records, and therefore they are growing in use amongst researchers to answer key health research questions. Pharmacoepi analysis in big datasets is often complex, with challenges unique to this area of data analysis, this includes: challenges with analysing dosing and duration, different preparations of medicines, understanding prescription use and compliance, establishing definitions for “long term” use of prescriptions. There is not a standard approach for preparing prescription data from electronic health records – this alone can often take months of trial and error. 
 
-✨ Meet the team
----
-<table>
-  <tr>
- 
-   <td align="center"><a ![Annie](.../images/annie.png) width="100px;" alt=""/><br /><sub><b>Annie Jeffery</b></a></td>
-   <td align="center"><a ![Cini](.../images/cini.png) width="100px;" alt=""/><br /><sub><b>Cini Bhanu</b></a></td>
-   <td align="center"><a ![Sophie](.../images/sophie.png) width="100px;" alt=""/><br /><sub><b>Sophie Eastwood</b></a></td>   
-      
-  </tr>
-</table>
-
 📫 Contact
 ---
 
