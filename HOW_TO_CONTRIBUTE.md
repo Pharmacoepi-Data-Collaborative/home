@@ -49,6 +49,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
   - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
   - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+  - If you would like to submite code lists, statistical code, or any learning materials but are not confident with the above methods, please reach out to **Annie Jeffery by emailing [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk)**.
 
 📫 Contact
 ---
