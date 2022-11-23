@@ -7,6 +7,7 @@ There is a separate list for CPRD Gold and CPRD Aurum. In CPRD data, the variabl
 When you load the files, ensure you read the medcode and medcodeid variables as characters.
 
 These lists have been used in the following research:
+
 Polypharmacy and Antidepressant Acceptability in Comorbid Depression and Type 2 Diabetes. Annie Jeffery, Cini Bhanu, Kate Walters, Ian C. K. Wong, David Osborn, Joseph F. Hayes. British Journal of General Practice 31 October 2022; BJGP.2022.0295. DOI: 10.3399/BJGP.2022.0295
 
 
