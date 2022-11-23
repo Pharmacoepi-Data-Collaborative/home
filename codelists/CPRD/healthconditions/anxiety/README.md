@@ -1,4 +1,4 @@
-# Code list repository
+# CPRD code lists for anxiety
 
 These code lists were developed by researchers from the Division of Psychiatry, Primary Care and Population Health and the Institute of Health Informatics, UCL.
 
