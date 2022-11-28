@@ -1,0 +1,133 @@
+	medcode	readcode	desc	category
+30484	30483	8CAa.00	Patient given advice about management of depression	advice
+7750	7749	Eu41211	[X]Mild anxiety depression	anxiety
+11914	11913	Eu41200	[X]Mixed anxiety and depressive disorder	anxiety
+15221	15220	Eu34114	[X]Persistant anxiety depression	anxiety
+1056	1055	E135.00	Agitated depression	anxiety
+5880	5879	E112.11	Agitated depression	anxiety
+656	655	E200300	Anxiety with depression	anxiety
+4324	4323	E2B1.00	Chronic depression	chronic
+32846	32845	Eu92000	[X]Depressive conduct disorder	conduct disorder
+10721	10720	Eu32y11	[X]Atypical depression	depression NS
+544	543	Eu32z11	[X]Depression NOS	depression NS
+3292	3291	Eu32z12	[X]Depressive disorder NOS	depression NS
+8585	8584	Eu34111	[X]Depressive neurosis	depression NS
+11330	11329	Eu33211	[X]Endogenous depression without psychotic symptoms	depression NS
+98347	98346	Eu32500	"[X]Major depression, mild"	depression NS
+98253	98252	Eu32600	"[X]Major depression, moderately severe"	depression NS
+98415	98414	Eu32700	"[X]Major depression, severe without psychotic symptoms"	depression NS
+10668	10667	Eu32400	[X]Mild depression	depression NS
+36617	36616	Eu33z11	[X]Monopolar depression NOS	depression NS
+7738	7737	Eu34113	[X]Neurotic depression	depression NS
+27492	27491	E11y200	Atypical depressive disorder	depression NS
+325	324	E2B..00	Depressive disorder NEC	depression NS
+596	595	E112.14	Endogenous depression	depression NS
+9184	9183	E11z200	Masked depression	depression NS
+16633	16632	E291.00	Prolonged depressive reaction	reactive
+2924	2923	62T1.00	Puerperal depression	depression NS
+4640	4639	Eu32.00	[X]Depressive episode	episode
+2971	2970	Eu32z00	"[X]Depressive episode, unspecified"	episode
+11718	11717	Eu32000	[X]Mild depressive episode	episode
+9212	9211	Eu32100	[X]Moderate depressive episode	episode
+6855	6854	Eu32y00	[X]Other depressive episodes	episode
+9668	9667	Eu32200	[X]Severe depressive episode without psychotic symptoms	episode
+22807	22806	Eu32212	[X]Single episode major depression w'out psychotic symptoms	episode
+56610	56609	Eu32y12	[X]Single episode of masked depression NOS	episode
+59387	59386	Eu32213	[X]Single episode vital depression w'out psychotic symptoms	episode
+6547	6546	E112.12	Endogenous depression first episode	episode
+6951	6950	E112.13	Endogenous depression first episode	episode
+10611	10610	E112.00	Single major depressive episode	episode
+7012	7011	E112z00	Single major depressive episode NOS	episode
+16507	16506	E112100	"Single major depressive episode, mild"	episode
+15156	15155	E112200	"Single major depressive episode, moderate"	episode
+15220	15219	E112300	"Single major depressive episode, severe, without psychosis"	episode
+34391	34390	E112000	"Single major depressive episode, unspecified"	episode
+43240	43239	9hC1.00	Excepted from depression quality indicators: Informed dissen	exception reporting
+28971	28970	9hC0.00	Excepted from depression quality indicators: Patient unsuita	exception reporting
+48971	48970	9hC..00	Exception reporting: depression quality indicators	exception reporting
+2717	2716	1465	H/O: depression	history
+12400	12399	9H90.00	Depression annual review	monitoring
+30406	30405	9H92.00	Depression interim review	monitoring
+12123	12122	9H91.00	Depression medication review	monitoring
+51259	51258	9Ov..00	Depression monitoring administration	monitoring
+71010	71009	9Ov0.00	Depression monitoring first letter	monitoring
+72967	72966	9Ov1.00	Depression monitoring second letter	monitoring
+85853	85852	9Ov4.00	Depression monitoring telephone invite	monitoring
+91106	91105	9Ov2.00	Depression monitoring third letter	monitoring
+88645	88644	9Ov3.00	Depression monitoring verbal invite	monitoring
+42932	42931	9HA0.00	On depression register	monitoring
+10291	10290	Eu34112	[X]Depressive personality disorder	personality disorder
+10456	10455	E211200	Depressive personality disorder	personality disorder
+29528	29527	R007z13	[D]Postoperative depression	postoperative
+2973	2972	E2B0.00	Postviral depression	postviral
+23732	23731	Eu33311	[X]Endogenous depression with psychotic symptoms	psychotic
+98418	98417	Eu32800	"[X]Major depression, severe with psychotic symptoms"	psychotic
+101154	101153	Eu32A00	"[X]Recurr major depr ep, severe with psych, psych in remiss"	psychotic
+32942	32941	Eu33313	[X]Recurr severe episodes/major depression+psychotic symptom	psychotic
+16862	16861	Eu33315	[X]Recurrent severe episodes of psychotic depression	psychotic
+37765	37764	Eu33316	[X]Recurrent severe episodes/reactive depressive psychosis	psychotic
+12100	12099	Eu32300	[X]Severe depressive episode with psychotic symptoms	psychotic
+24118	24117	Eu32311	[X]Single episode of major depression and psychotic symptoms	psychotic
+52679	52678	Eu32312	[X]Single episode of psychogenic depressive psychosis	psychotic
+24113	24112	Eu32313	[X]Single episode of psychotic depression	psychotic
+28864	28863	Eu32314	[X]Single episode of reactive depressive psychosis	psychotic
+101055	101054	Eu32900	"[X]Single major depr ep, severe with psych, psych in remiss"	psychotic
+2561	2560	E11..12	Depressive psychoses	psychotic
+17771	17770	E130.11	Psychotic reactive depression	psychotic
+8479	8478	E130.00	Reactive depressive psychosis	psychotic
+24172	24171	E113400	"Recurrent major depressive episodes, severe, with psychosis"	psychotic
+32160	32159	E112400	"Single major depressive episode, severe, with psychosis"	psychotic
+5988	5987	Eu32z14	[X] Reactive depression NOS	reactive
+28249	28248	Eu32z13	[X]Prolonged single episode of reactive depression	reactive
+9056	9055	Eu32.11	[X]Single episode of depressive reaction	reactive
+18511	18510	Eu32.12	[X]Single episode of psychogenic depression	reactive
+7605	7604	Eu32.13	[X]Single episode of reactive depression	reactive
+1534	1533	E290.00	Brief depressive reaction	reactive
+36247	36246	E290z00	Brief depressive reaction NOS	reactive
+1132	1131	E204.00	Neurotic depression reactive type	reactive
+11253	11252	Eu33212	"[X]Major depression, recurrent without psychotic symptoms"	recurrent
+47732	47731	Eu33y00	[X]Other recurrent depressive disorders	recurrent
+31758	31757	Eu33314	[X]Recurr severe episodes/psychogenic depressive psychosis	psychotic
+19055	19054	Eu3y111	[X]Recurrent brief depressive episodes	recurrent
+3293	3292	Eu33.00	[X]Recurrent depressive disorder	recurrent
+29785	29784	Eu33000	"[X]Recurrent depressive disorder, current episode mild"	recurrent
+29521	29520	Eu33100	"[X]Recurrent depressive disorder, current episode moderate"	recurrent
+44301	44300	Eu33z00	"[X]Recurrent depressive disorder, unspecified"	recurrent
+8852	8851	Eu33.11	[X]Recurrent episodes of depressive reaction	recurrent
+19697	19696	Eu33.12	[X]Recurrent episodes of psychogenic depression	recurrent
+8903	8902	Eu33.13	[X]Recurrent episodes of reactive depression	recurrent
+73992	73991	Eu33214	"[X]Vital depression, recurrent without psychotic symptoms"	recurrent
+6933	6932	E113.11	Endogenous depression - recurrent	recurrent
+6483	6482	E113700	Recurrent depression	recurrent
+15100	15099	E113.00	Recurrent major depressive episode	recurrent
+25564	25563	E113z00	Recurrent major depressive episode NOS	recurrent
+29343	29342	E113100	"Recurrent major depressive episodes, mild"	recurrent
+14710	14709	E113200	"Recurrent major depressive episodes, moderate"	recurrent
+25698	25697	E113300	"Recurrent major depressive episodes, severe, no psychosis"	recurrent
+35672	35671	E113000	"Recurrent major depressive episodes, unspecified"	recurrent
+65436	65435	9k40.00	Depression - enhanced service completed	referral
+30584	30583	9k4..00	Depression - enhanced services administration	referral
+44849	44848	8BK0.00	Depression management programme	referral
+32842	32841	8HHq.00	Referral for guided self-help for depression	referral
+112683	112682	8IH5200	Referral for guided self-help for depression declined	referral
+22117	22116	Eu33400	"[X]Recurrent depressive disorder, currently in remission"	remission
+19440	19439	212S.00	Depression resolved	remission
+55385	55384	E113600	"Recurrent major depressive episodes, in full remission"	remission
+56274	56273	E113500	"Recurrent major depressive episodes,partial/unspec remission"	remission
+57410	57409	E112600	"Single major depressive episode, in full remission"	remission
+43325	43324	E112500	"Single major depressive episode, partial or unspec remission"	remission
+8827	8826	Eu33.15	[X]SAD - Seasonal affective disorder	SAD
+28757	28756	Eu33.14	[X]Seasonal depressive disorder	SAD
+10826	10825	E118.00	Seasonal affective disorder	SAD
+100978	100977	1JJ..00	Suspected depression	suspected
+2931	2930	1B17.12	C/O - feeling unhappy	symptom
+10016	10015	1BT..00	Depressed mood	symptom
+10439	10438	1B1U.11	Depressive symptoms	symptom
+48350	48349	1S40.00	Dysphoric mood	symptom
+25436	25435	1BQ..00	Loss of capacity for enjoyment	symptom
+53149	53148	1BU..00	Loss of hope for the future	symptom
+30741	30740	1BP..00	Loss of interest	symptom
+59870	59869	1BP0.00	Loss of interest in previously enjoyable activity	symptom
+8929	8928	1BT..11	Low mood	symptom
+26029	26028	1BT..12	Sad mood	symptom
+9797	9796	1B1U.00	Symptoms of depression	symptom

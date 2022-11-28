@@ -1,0 +1,200 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release
+138421012	Agitated depression	E135	E135.00	83458005	138421012	
+253619019	O/E - depressed	2257	2257.00	162722001	253619019	
+294838013	Recurrent major depressive episodes, moderate	E1132	E113200	191611001	294838013	
+294844012	Recurrent depression	E1137	E113700	191616006	294844012	
+294863013	Bipolar affective disorder, currently depressed, moderate	E1152	E115200	191630001	294863013	
+294837015	Recurrent major depressive episodes, mild	E1131	E113100	191610000	294837015	
+294860011	Manic-depressive - now depressed	E115-1	E115.11	191627008	294860011	
+294862015	Bipolar affective disorder, currently depressed, mild	E1151	E115100	191629006	294862015	
+294917018	Reactive depressive psychosis	E130	E130.00	191676002	294917018	
+294918011	Psychotic reactive depression	E130-1	E130.11	191676002	294918011	
+294828015	Single major depressive episode, severe, with psychosis	E1124	E112400	191604000	294828015	
+294840015	Recurrent major depressive episodes, severe, with psychosis	E1134	E113400	191613003	294840015	
+294894013	Atypical depressive disorder	E11y2	E11y200	191659001	294894013	
+295537016	Chronic depression	E2B1	E2B1.00	192080009	295537016	
+407062014	C/O - feeling depressed	1B17-1	1B17.11	272022009	407062014	
+441826016	Endogenous depression	E112-4	E112.14	300706003	441826016	
+410861011	Endogenous depression - recurrent	E113-1	E113.11	274948002	410861011	
+346972018	Endogenous depression first episode	E112-3	E112.13	231499006	346972018	
+346973011	Masked depression	E11z2	E11z200	231500002	346973011	
+1488626018	Symptoms of depression	1B1U	1B1U.00	394924000	1488626018	
+1488771018	Postnatal depression counselling	6G00	6G00.00	395072006	1488771018	
+1780205015	H/O: manic depressive disorder	146D	146D.00	400998002	1780205015	
+2474715017	On depression register	9HA0	9HA0.00	413169006	2474715017	
+213641000000111	[X]Mild depression	Eu324	Eu32400	310495003	213641000000111	
+2533375017	Patient given advice about management of depression	8CAa	8CAa.00	415044007	2533375017	
+681801000000113	On full dose long term treatment for depression	9kQ-1	9kQ..11	361761000000106	681801000000113	
+882831000006113	Severe depression	Eu322-99	Eu32299	397701000000102	882831000006113	
+915521000006112	Geriatric depression scale - 6 points	EMISNQGE8		915521000006108	915521000006112	
+915561000006118	Geriatric depression scale - 10 points	EMISNQGE12		915561000006102	915561000006118	
+915611000006115	Geriatric depression scale - 15 points	EMISNQGE17		915611000006104	915611000006115	
+915501000006119	Geriatric depression scale - 5 points	EMISNQGE6		915501000006103	915501000006119	
+915531000006110	Geriatric depression scale - 7 points	EMISNQGE9		915531000006106	915531000006110	
+915541000006117	Geriatric depression scale - 8 points	EMISNQGE10		915541000006101	915541000006117	
+915571000006113	Geriatric depression scale - 11 points	EMISNQGE13		915571000006109	915571000006113	
+915461000006119	Geriatric depression scale - 1 point	EMISNQGE2		915461000006103	915461000006119	
+915511000006116	Geriatric depression scale - <6 points	EMISNQGE7		915511000006100	915511000006116	
+915581000006111	Geriatric depression scale - 12 points	EMISNQGE14		915581000006107	915581000006111	
+915591000006114	Geriatric depression scale - 13 points	EMISNQGE15		915591000006105	915591000006114	
+300711000000119	Referral for guided self-help for depression	8HHq	8HHq.00	199111000000100	300711000000119	
+981611000006115	Abnormal depressed feelings	EMISCAB36		981611000006104	981611000006115	
+882401000006115	Reactive (neurotic) depression	E204-99	E204.99	87414006	882401000006115	
+915601000006118	Geriatric depression scale - 14 points	EMISNQGE16		915601000006102	915601000006118	
+1008821000006112	PHQ9 score - feeling down or depressed or hopeless	EMISNQPH8		1008821000006108	1008821000006112	
+1650771000000113	Suspected depression	1JJ	1JJ..00	473126001	2956111010	
+1771531000006110	Antenatal depression	EMISNQAN25		1771531000006106	1771531000006110	
+1806431000006113	Adjustment disorder with depressed mood	EMISNQAD51		57194009	95129017	
+1839561000006119	PHQ9 total score 10-14 (moderate depression)	EMISNQPH34		1839561000006103	1839561000006119	
+1839551000006116	PHQ9 total score 5-9 (mild depression)	EMISNQPH33		1839551000006100	1839551000006116	
+1839581000006112	PHQ9 total score 20-27 (severe depression)	EMISNQPH36		1839581000006108	1839581000006112	
+1839571000006114	PHQ9 total score 15-19 (moderately severe depression)	EMISNQPH35		1839571000006105	1839571000006114	
+1975191000006114	Post-schizophrenic depression, continuous	EMISICD10|F2040		1975191000006105	1975191000006114	
+1975261000006113	Post-schizophrenic depression, episodic remittent	EMISICD10|F2043		1975261000006109	1975261000006113	
+1975321000006114	Post-schizophrenic depression, course uncertain, period of observation too short	EMISICD10|F2049		1975321000006105	1975321000006114	
+1976271000006113	Recurrent depressive disorder, current episode moderate, with somatic syndrome	EMISICD10|F3311		1976271000006109	1976271000006113	
+1976921000006116	Post-schizophrenic depression, other	EMISICD10|F2048		1976921000006100	1976921000006116	
+1975231000006116	Post-schizophrenic depression, episodic with stable deficit	EMISICD10|F2042		1975231000006100	1975231000006116	
+1975281000006115	Post-schizophrenic depression, incomplete remission	EMISICD10|F2044		1975281000006104	1975281000006115	
+1976051000006112	Moderate depressive episode, with somatic syndrome	EMISICD10|F3211		1976051000006108	1976051000006112	
+1976491000006113	Mixed anxiety and depressive reaction	EMISICD10|F4322		1976491000006109	1976491000006113	
+1975941000006115	Bipolar affect disorder cur epi mild or moderate depressn, with somatic syndrome	EMISICD10|F3131		1975941000006104	1975941000006115	
+1975931000006113	Bipolar affect disorder cur epi mild or moderate depressn, without somatic syndrome	EMISICD10|F3130		1975931000006109	1975931000006113	
+1976021000006115	Moderate depressive episode, without somatic syndrome	EMISICD10|F3210		1976021000006104	1976021000006115	
+1976211000006116	Recurrent depressive disorder, current episode mild, without somatic syndrome	EMISICD10|F3300		1976211000006100	1976211000006116	
+2620391000000111	Maternal postnatal depression	12K8		1038261000000100	2620391000000111	
+1975991000006112	Mild depressive episode, with somatic syndrome	EMISICD10|F3201		1975991000006108	1975991000006112	
+1976251000006115	Recurrent depressive disorder, current episode moderate, without somatic syndrome	EMISICD10|F3310		1976251000006104	1976251000006115	
+1976411000006115	Other recurrent mood affective disorders, recurrent brief depressive disorder	EMISICD10|F3810		1976411000006104	1976411000006115	
+2143511000000118	Antidepressant drug treatment changed	66580	6658000	823501000000106	2143511000000118	
+296199015	[X]Other recurrent depressive disorders	Eu33y	Eu33y00	191616006	294844012	
+294891017	Other and unspecified manic-depressive psychoses	E11y	E11y.00	13746004	1221011015	
+294836012	Recurrent major depressive episodes, unspecified	E1130	E113000	268621008	401767019	
+294868016	Bipolar affective disorder, currently depressed, NOS	E115z	E115z00	191627008	294859018	
+295494011	Brief depressive reaction NOS	E290z	E290z00	192046006	295490019	
+401871010	[X]Other depressive episodes	Eu32y	Eu32y00	35489007	59212011	
+401876017	[X]Recurrent depressive disorder, unspecified	Eu33z	Eu33z00	191616006	294844012	
+401873013	[X]Recurrent depressive disorder	Eu33	Eu33.00	191616006	294844012	
+294861010	Bipolar affective disorder, currently depressed, unspecified	E1150	E115000	191627008	294859018	
+182721000006111	Recurrent major depressive episode	E113	E113.00	268621008	401767019	
+182801000006114	Recurrent major depressive episodes,partial/unspec remission	E1135	E113500	764691000000109	1696381000000115	
+202561000006114	Prolonged depressive reaction	E291	E291.00	192049004	295495012	
+223651000000118	Postnatal depression	E204-1	E204.11	58703003	97552012	
+359121000006116	[X] Reactive depression NOS	Eu32z-4	Eu32z14	87414006	2951871015	
+367051000006112	[X]Bipol aff disord, curr epis sev depress, no psychot symp	Eu314	Eu31400	61403008	102016011	
+398351000006110	[X]Mild anxiety depression	Eu412-1	Eu41211	231504006	346979010	
+398841000006119	[X]Monopolar depression NOS	Eu33z-1	Eu33z11	35489007	59212011	
+425751000006115	[X]Seasonal depressive disorder	Eu33-4	Eu33.14	247803002	369982012	
+426931000006117	[X]Single episode of masked depression NOS	Eu32y-2	Eu32y12	231500002	346973011	
+474171000006112	Agitated depression	E112-1	E112.11	83458005	138421012	
+488211000006112	Anxiety with depression	E2003	E200300	231504006	346979010	
+525921000006119	Brief depressive reaction	E290	E290.00	192046006	295490019	
+513861000006113	Bipolar affective disorder, now depressed, in full remission	E1156	E115600	191634005	294867014	
+423131000006113	[X]Postnatal depression NOS	Eu530-1	Eu53011	58703003	97552012	
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis	Eu333-4	Eu33314	191613003	294840015	
+642461000006116	Endogenous depression first episode	E112-2	E112.12	231499006	346972018	
+399961000006118	[X]Neurotic depression	Eu341-3	Eu34113	78667006	130534012	
+424541000006111	[X]Recurr severe episodes/major depression+psychotic symptom	Eu333-3	Eu33313	28475009	47670016	
+424671000006116	[X]Recurrent severe episodes of psychotic depression	Eu333-5	Eu33315	191613003	294840015	
+424631000006119	[X]Recurrent episodes of depressive reaction	Eu33-1	Eu33.11	191616006	294844012	
+999901000006113	Excepted from depression quality indicators: Patient unsuita	9hC0	9hC0.00	716831000000103	1569381000000116	
+424651000006114	[X]Recurrent episodes of reactive depression	Eu33-3	Eu33.13	191616006	294844012	
+675861000006113	Neurotic depression reactive type	E204	E204.00	87414006	144929012	
+424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp	Eu333	Eu33300	28475009	47670016	
+1715191000006112	[X]Major depression, severe with psychotic symptoms	Eu328	Eu32800	73867007	122670017	
+425691000006119	[X]Schizophreniform psychosis, depressive type	Eu251-2	Eu25112	84760002	1234980016	
+999911000006111	Excepted from depression quality indicators: Informed dissen	9hC1	9hC1.00	715831000000109	1568391000000112	
+294845013	Recurrent major depressive episode NOS	E113z	E113z00	268621008	401767019	
+296180012	[X]Recurrent depressive disorder, current episode mild	Eu330	Eu33000	310495003	454082014	
+379781000006118	[X]Endogenous depression without psychotic symptoms	Eu332-1	Eu33211	300706003	441826016	
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt	Eu332	Eu33200	310497006	454084010	
+294831019	Single major depressive episode, in full remission	E1126	E112600	19527009	3304522019	
+423141000006115	[X]Postpartum depression NOS	Eu530-2	Eu53012	58703003	97552012	
+424641000006112	[X]Recurrent episodes of psychogenic depression	Eu33-2	Eu33.12	191616006	294844012	
+367091000006118	[X]Bipolar affect disorder cur epi mild or moderate depressn	Eu313	Eu31300	191630001	294863013	
+379771000006116	[X]Endogenous depression with psychotic symptoms	Eu333-1	Eu33311	73867007	122670017	
+426911000006111	[X]Single episode of depressive reaction	Eu32-1	Eu32.11	87414006	2951871015	
+432511000006119	[X]Vital depression, recurrent without psychotic symptoms	Eu332-4	Eu33214	310497006	454084010	
+401866015	[X]Severe depressive episode without psychotic symptoms	Eu322	Eu32200	310497006	454084010	
+223741000000112	[X]Single episode major depression w'out psychotic symptoms	Eu322-2	Eu32212	310497006	454084010	
+1680571000006118	On full dose long term treatment depression - enh serv admin	9kQ	9kQ..00	361761000000106	681801000000113	
+296137015	[X]Mild depressive episode	Eu320	Eu32000	310495003	454082014	
+426921000006115	[X]Single episode of major depression and psychotic symptoms	Eu323-1	Eu32311	191604000	294828015	
+296198011	[X]Recurrent depressive disorder, currently in remission	Eu334	Eu33400	698957003	2981573016	
+401869010	[X]Severe depressive episode with psychotic symptoms	Eu323	Eu32300	191604000	294828015	
+294824018	Single major depressive episode, unspecified	E1120	E112000	36923009	61590015	
+1715781000006110	[X]Major depression, severe without psychotic symptoms	Eu327	Eu32700	75084000	124707013	
+426891000006114	[X]Single episode agitated depressn w'out psychotic symptoms	Eu322-1	Eu32211	310497006	454084010	
+401766011	Single major depressive episode	E112	E112.00	36923009	61590015	
+294825017	Single major depressive episode, mild	E1121	E112100	79298009	131561018	
+296138013	[X]Moderate depressive episode	Eu321	Eu32100	310496002	454083016	
+408988011	Hospital anxiety and depression scale	388J	388J.00	401320004	1780507012	
+142541000006115	Single major depressive episode, severe, without psychosis	E1123	E112300	251000119105	2916281014	
+294826016	Single major depressive episode, moderate	E1122	E112200	15639000	26507014	
+1715181000006114	[X]Major depression, moderately severe	Eu326	Eu32600	832007	2451016	
+1755901000006112	Single major depressive episode, severe, with psychosis, psychosis in remission	Eu329	Eu32900	755321000000106	1667601000000117	
+294843018	Recurrent major depressive episodes, in full remission	E1136	E113600	46244001	3304524018	
+466481000006117	Adverse reaction to CNS muscle-tone depressants NOS	TJ80z	TJ80z00	218696007	331058013	
+324251015	Central nervous system muscle-tone depressant poisoning NOS	SL80z	SL80z00	212641008	2470091010	
+424681000006118	[X]Recurrent severe episodes/reactive depressive psychosis	Eu333-6	Eu33316	1086471000000103	2721771000000114	
+426991000006118	[X]Single episode vital depression w'out psychotic symptoms	Eu322-3	Eu32213	310497006	454084010	
+294832014	Single major depressive episode NOS	E112z	E112z00	36923009	61590015	
+396081000006116	[X]Major depression, recurrent without psychotic symptoms	Eu332-2	Eu33212	268621008	401767019	
+419841000006116	[X]Persistant anxiety depression	Eu341-4	Eu34114	231504006	346979010	
+426941000006110	[X]Single episode of psychogenic depression	Eu32-2	Eu32.12	87414006	2951871015	
+513711000006118	Bipolar affect disord, now depressed, part/unspec remission	E1155	E115500	49512000	82468013	
+426981000006116	[X]Single episode of reactive depressive psychosis	Eu323-4	Eu32314	191676002	294917018	
+426951000006112	[X]Single episode of psychogenic depressive psychosis	Eu323-2	Eu32312	191676002	294917018	
+396771000006117	[X]Manic-depress psychosis,depressd,no psychotic symptoms	Eu332-3	Eu33213	36474008	60885016	
+1755911000006110	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	Eu32A	Eu32A00	755331000000108	1667611000000115	
+1785881000006119	[X]Antenatal depression	Eu32B	Eu32B00	790961000000101	1768521000000118	
+182771000006112	Recurrent major depressive episodes, severe, no psychosis	E1133	E113300	764611000000100	1696221000000111	
+513721000006114	Bipolar affect disord, now depressed, severe with psychosis	E1154	E115400	765176007	3657334019	
+396781000006119	[X]Manic-depress psychosis,depressed type+psychotic symptoms	Eu333-2	Eu33312	765176007	3657334019	
+882811000006119	Mild depression	Eu320-99	Eu32099	430421000000104	882811000006119	
+2391541000000115	Referral for guided self-help for depression declined	8IH52	8IH5200	933441000000101	2391541000000115	
+2370061000000111	Referral for depression self-help video	8HHq0	8HHq000	923921000000104	2370061000000111	
+426971000006119	[X]Single episode of reactive depression	Eu32-3	Eu32.13	87414006	2951871015	
+513731000006112	Bipolar affect disord, now depressed, severe, no psychosis	E1153	E115300	61403008	102016011	
+425501000006113	[X]Schizoaffective disorder, depressive type	Eu251	Eu25100	84760002	140519016	
+513751000006117	Bipolar affective disorder, currently depressed	E115	E115.00	191627008	294859018	
+423041000006119	[X]Post-schizophrenic depression	Eu204	Eu20400	231485007	346956014	
+424561000006110	[X]Recurrent brief depressive episodes	Eu3y1-1	Eu3y111	40568001	67653019	
+423611000006111	[X]Prolonged single episode of reactive depression	Eu32z-3	Eu32z13	87414006	2951871015	
+1975981000006114	Mild depressive episode, without somatic syndrome	EMISICD10|F3200		1975981000006105	1975981000006114	
+1975211000006110	Post-schizophrenic depression, episodic with progressive deficit	EMISICD10|F2041		1975211000006106	1975211000006110	
+1976231000006110	Recurrent depressive disorder, current episode mild, with somatic syndrome	EMISICD10|F3301		1976231000006106	1976231000006110	
+915551000006115	Geriatric depression scale - 9 points	EMISNQGE11		915551000006104	915551000006115	
+398561000006117	[X]Mixed anxiety and depressive disorder	Eu412	Eu41200	231504006	346979010	
+425561000006114	[X]Schizoaffective psychosis, depressive type	Eu251-1	Eu25111	84760002	140519016	
+1715771000006112	[X]Major depression, mild	Eu325	Eu32500	87512008	145089017	
+366561000006119	[X]Atypical depression	Eu32y-1	Eu32y11	191659001	294894013	
+296181011	[X]Recurrent depressive disorder, current episode moderate	Eu331	Eu33100	310496002	454083016	
+142521000006110	Single major depressive episode, partial or unspec remission	E1125	E112500	70747007	117520015	
+251629019	H/O: depression	1465	1465.00	161469008	251629019	
+882821000006110	Moderate depression	Eu321-99	Eu32199	465441000000108	882821000006110	
+1231868010	Puerperal depression	62T1	62T1.00	58703003	1231868010	
+908731000006114	[RFC] Postnatal depression	HNG0531		908731000006105	908731000006114	
+294892012	Unspecified manic-depressive psychoses	E11y0	E11y000	13746004	1221011015	
+690561000000119	Fetus or neonate affected by maternal postnatal depression	Q018	Q018.00	206035009	2966012015	
+8035341000006119	Positive screening for depression on PHQ-9 (Patient Health Questionnaire 9)	^ESCTPO803534		112001000119100	3320737018	
+426961000006114	[X]Single episode of psychotic depression	Eu323-3	Eu32313	191604000	294828015	
+1975301000006116	Post-schizophrenic depression, complete remission	EMISICD10|F2045		1975301000006100	1975301000006116	
+1494612017	Depressive symptoms	1B1U-1	1B1U.11	394924000	1494612017	
+2164005017	Depressed mood	1BT	1BT..00	366979004	490537016	
+882671000006112	Depression	E2B-98	E2B..98	609311000000100	882671000006112	
+909681000006110	[RFC] Depression	HNGNQRF13		909681000006106	909681000006110	
+882681000006110	Depression NOS	E2B-99	E2B..99	609311000000100	882681000006110	
+1823881000006110	Depression confirmed	EMISNQDE36		1823881000006106	1823881000006110	
+295535012	Depressive disorder NEC	E2B	E2B..00	35489007	59212011	
+401872015	[X]Depressive episode, unspecified	Eu32z	Eu32z00	35489007	486185019	
+2164006016	Depressed	1B17	1B17.00	366979004	490537016	
+376721000006114	[X]Depressive episode	Eu32	Eu32.00	35489007	486185019	
+376691000006116	[X]Depression NOS	Eu32z-1	Eu32z11	35489007	486184015	
+376741000006119	[X]Depressive neurosis	Eu341-1	Eu34111	78667006	130534012	
+613791000006115	Depressive psychoses	E11-2	E11..12	35489007	59212011	
+376711000006118	[X]Depressive disorder NOS	Eu32z-2	Eu32z12	35489007	486185019	
+1773563015	Depression management programme	8BK0	8BK0.00	401174001	1773563015	
+613781000006118	Depressive personality disorder	E2112	E211200	78667006	130532011	
+369982012	Seasonal affective disorder	E118	E118.00	247803002	369982012	
+425411000006110	[X]SAD - Seasonal affective disorder	Eu33-5	Eu33.15	247803002	369983019	
