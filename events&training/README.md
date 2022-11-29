@@ -8,7 +8,7 @@ The Pharmaco-Epi Data Collaborative Winter Meeting is here! Join us for:
 - The launch of our online knowledge hub: with sharable code, learning resources and a collaboration platform
 - In depth focus on polypharmacy: talks on polypharmacy research and an interaction problem solving workshop
 
-Are you working with pharmaco-epidemiology methods or prescription data? Following our successful opening seminars, we are continuing to support a network of e-researchers using pharmaco-epi methods with datasets. We are pleased to announce our next event. Registration is free and open to all, please sign up at: https://www.eventbrite.co.uk/e/ucl-pharmaco-epi-collaborative-winter-seminar-tickets-473926867017 
+Are you working with pharmaco-epidemiology methods or prescription data? Following our successful opening seminars, we are continuing to support a network of e-researchers using pharmaco-epi methods with datasets. We are pleased to announce our next event. Registration is free and open to anyone working in academia or public healthcare services, please sign up at: https://www.eventbrite.co.uk/e/ucl-pharmaco-epi-collaborative-winter-seminar-tickets-473926867017 
 
 **Agenda:**
 
