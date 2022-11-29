@@ -37,5 +37,7 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use, and with no additional restrictions.
 
-
+✨ Acknowledgements
+---
+Thank you to the Alan Turing Institute's [Reproducible Project Template](https://github.com/alan-turing-institute/reproducible-project-template) to help shape these pages! And to [Sophie Batchelor](https://github.com/BrainonSilicon) for support in getting the pages started! 
 
