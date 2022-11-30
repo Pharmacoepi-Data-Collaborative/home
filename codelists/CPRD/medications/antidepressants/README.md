@@ -1,6 +1,6 @@
-# CPRD code lists for antidepressants
+# CPRD code list for antidepressants
 
-This code lists was developed by Annie Jeffery, Division of Psychiatry, UCL.
+This code list was developed by Annie Jeffery, Division of Psychiatry, UCL.
 
 The list was developed by searching the CPRD product dictionary "drugsubstance" variable, for terms matching antidepressants which have been licensed to treat depression in the UK since the year 2000.
 
