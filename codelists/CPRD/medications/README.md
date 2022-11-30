@@ -8,10 +8,10 @@ Where available, information on how the code list has been created, comparison t
 These code lists are free to reuse, but please acknowledge the relevant team as described for each individual list and in line with our licensing requirements (described below).
 
 Lists of medications prescribed in the UK can be found here:
-- [British National Forumlary]([https://www.phpc.cam.ac.uk/pcu/research/research-groups/crmh/cprd_cam/codelists/v11/](https://bnf.nice.org.uk/treatment-summaries/))
-- [Open Prescribing]([https://phenotypes.healthdatagateway.org/phenotypes/?](https://openprescribing.net/))
+- [British National Forumlary](https://bnf.nice.org.uk/treatment-summaries/)
+- [Open Prescribing](https://openprescribing.net/)
 
-If you wish to contribute a code list you are very welcome to do so. Please provide information on how the list was created, who should be acknowledged for the work and, if possible, examples of publications using the list. Please see our [Code of Conduct](./CODE_OF_CONDUCT.md) page for information on how to contribute.
+If you wish to contribute a code list you are very welcome to do so. Please provide information on how the list was created, who should be acknowledged for the work and, if possible, examples of publications using the list. Please see our [How to Contribute Page](./HOW_TO_CONTRIBUTE.md) page for information on how to contribute.
 
 Thank you! :)
 
@@ -23,3 +23,4 @@ You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use, and with no additional restrictions.
+Full information on licensing is [here](./LICENSE.md).
