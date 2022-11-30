@@ -11,7 +11,7 @@ Other resources for health condition code lists in CPRD Gold can be found here:
 - [CAMBRIDGE CHARLSON](https://www.phpc.cam.ac.uk/pcu/research/research-groups/crmh/cprd_cam/codelists/v11/)
 - [HDRUK Phenotype Library](https://phenotypes.healthdatagateway.org/phenotypes/?)
 
-If you wish to contribute a code list you are very welcome to do so. Please provide information on how the list was created, who should be acknowledged for the work and, if possible, examples of publications using the list. Please see our [Code of Conduct](./CODE_OF_CONDUCT.md) page for information on how to contribute.
+If you wish to contribute a code list you are very welcome to do so. Please provide information on how the list was created, who should be acknowledged for the work and, if possible, examples of publications using the list. 
 
 Thank you! :)
 
