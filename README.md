@@ -3,7 +3,7 @@
 
 We are a network of researchers from UCL and beyond who use pharmacoepidemiology methods with secondary datasets. 
 
-This is our online knowledge hub - a resource for pharmacoepi researchers to share knowledge and code. 
+This is our online knowledge hub - a resource for pharmacoepi researchers to share knowledge and code. We also host termly online [events](/events&training) with expert speakers, research competitions & problem-solving workshops. Details of our next event can be found [here](/events&training).
 
 🎯 These pages are currently in development - the below list shows which areas we have up and running (with links) and the areas that are still in plan:
 - [X] [Area for sharing re-usable code lists to identify clinical conditions, medications and other patient characteristics within electronic health record data](/codelists)
@@ -14,7 +14,7 @@ This is our online knowledge hub - a resource for pharmacoepi researchers to sha
 - [ ] Problem solving forum
 - [ ] Collaboration platform
 
-We also host termly online [events](/events&training) with expert speakers, research competitions & problem-solving workshops. Details of our next event can be found here [events](/events&training).
+We very much encourage contributions to these pages, in the name of open science for pharmacoepi! :) See our [How to Contribute](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/HOW_TO_CONTRIBUTE.md) page for more information.
 
 
 #### What is pharmacoepi?
@@ -45,7 +45,8 @@ This work is licensed under the MIT license (code) and Creative Commons Attribut
 You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use, and with no additional restrictions.
+licensor endorses you or your use, and with no additional restrictions. 
+More information on licensing can be found [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/LICENSE.md).
 
 ✨ Acknowledgements
 ---
