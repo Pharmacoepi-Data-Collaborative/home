@@ -1,0 +1,158 @@
+medcode	readcode	desc
+42	466..00	Urine test for glucose
+55	44U..00	Blood glucose result
+98	44g..00	Plasma glucose level
+2274	44V..00	Glucose tolerance test
+3295	R102.12	[D]Impaired glucose tolerance test
+3505	C313500	Glucose intolerance
+5986	R105700	"[D]Glucose, blood level abnormal"
+8113	44TJ.00	Blood glucose level
+8793	44TK.00	Fasting blood glucose level
+10042	R10E.00	[D]Impaired glucose tolerance
+10289	44g1.00	Plasma fasting glucose level
+10921	C11y200	Impaired glucose tolerance
+11818	R102.00	[D]Glucose tolerance test abnormal
+13594	4666.00	Urine glucose test = +++
+13595	4664.00	Urine glucose test = +
+13601	4665.00	Urine glucose test = ++
+13625	44T..00	Blood glucose method
+13824	44TA.00	Plasma glucose
+13825	44f0.00	Serum random glucose level
+13826	44f..00	Serum glucose level
+13828	44g6.00	120 minute plasma glucose level
+13829	44U7.00	2 hour post-prandial blood glucose level
+13830	44f1.00	Serum fasting glucose level
+13831	44U..12	Plasma glucose level
+13832	44TH.00	120 minute blood glucose level
+13864	44V1.00	Glucose tolerance test normal
+13936	4669.00	Urine dipstick for glucose
+14088	4667.00	Urine glucose test = ++++
+17478	8A17.00	Self monitoring of blood glucose
+17541	68K1.00	Urine screen for glucose
+17846	8A18.00	Self monitoring of urine glucose
+19775	44U8.00	Blood glucose normal
+19776	44g0.00	Plasma random glucose level
+19781	44V2.00	Glucose tol. test impaired
+20985	44U9.00	Blood glucose abnormal
+22225	44U5.00	Blood glucose 7-9.9 mmol/L
+22531	D102000	Glucose-6-phosphate dehydrogenase deficiency anaemia
+23122	44U1.00	Blood glucose 0-1.4 mmol/L
+23123	44f6.00	120 minute serum glucose level
+23204	4I39.11	Glucose in sample
+23240	42G4.00	Glucose 6-phosphate dehydrog.
+25044	44UZ.00	Blood glucose 14+ mmol/L
+25446	R10D.00	[D]Elevated blood glucose level
+27039	44f2.00	Serum 2-hr post-prandial glucose level
+27573	44Uz.00	Blood glucose raised NOS
+29219	4I39.00	Fluid sample glucose
+31161	R10D011	[D]Impaired fasting glucose
+31283	44U4.00	Blood glucose 5-6.9 mmol/L
+31288	44V..11	Blood glucose tolerance
+32770	44V3.00	Glucose tol. test diabetic
+33274	44j..00	Glucose load test
+33288	44TF.00	60 minute blood glucose level
+33289	44U3.00	Blood glucose 2.5-4.9 mmol/L
+33290	44g4.00	60 minute plasma glucose level
+33302	466Z.00	Urine glucose test NOS
+35549	44TZ.00	Blood glucose method NOS
+35550	44TI.00	150 minute blood glucose level
+37239	46S4.00	Urine glucose: chem. titre
+38199	44g2.00	Plasma 2-hr post-prandial glucose level
+39204	44U2.00	Blood glucose 1.5-2.4 mmol/L
+39208	44VZ.00	Glucose tolerance test NOS
+39246	46S4.11	Glucose - urine titre
+40171	44f4.00	60 minute serum glucose level
+41434	44U6.00	Blood glucose 10-13.9 mmol/L
+42217	8A19.00	Self monitoring of blood and urine glucose
+47532	44TM.00	Blood glucose series
+48994	44g3.00	30 minute plasma glucose level
+48995	44g5.00	90 minute plasma glucose level
+48996	44g7.00	150 minute plasma glucose level
+58660	44TG.00	90 minute blood glucose level
+58661	44TE.00	30 minute blood glucose level
+59705	44f3.00	30 minute serum glucose level
+59706	44f5.00	90 minute serum glucose level
+59707	44f7.00	150 minute serum glucose level
+61767	7P17200	Glucose tolerance test
+67606	4Q80.00	Glucose level
+84142	44V6.00	Extended glucose tolerance test
+86419	4N2..00	Dialysis fluid glucose level
+98569	4Q83.00	Estimated average glucose level
+98973	44g8.00	240 minute plasma glucose level
+104668	44TJ100	Blood glucose range after breakfast
+105134	44TJ400	Blood glucose range after lunch
+105434	C11y400	Impaired glucose regulation
+105505	44TJ500	Blood glucose range before evening meal
+105565	44TJ000	Blood glucose range before breakfast
+105648	44gA.00	180 minute plasma glucose level
+105843	8A1B.00	Ambulat contin glucose monitor of interstitial tissue fluid
+105863	44TJ300	Blood glucose range before lunch
+109057	44TJA00	Blood glucose level during night
+109654	44g9.00	300 minute plasma glucose level
+109655	44TJ800	Baseline blood glucose level
+109742	9mX..00	Impaired glucose regulation monitoring invitation
+109764	9lQ..00	Blood glucose self-monitoring record checked
+109802	44TJ200	Bedtime blood glucose range
+110812	44TJ900	Blood glucose level after evening meal
+111442	44TJ600	Blood glucose range after evening meal
+14050	42c..00	HbA1 - diabetic control
+14053	42W4.00	HbA1c level (DCCT aligned)
+19807	42c3.00	HbA1 level (DCCT aligned)
+40463	42c1.00	HbA1 7 - 10% - borderline control
+42360	42c0.00	HbA1 < 7% - good control
+46079	42c2.00	HbA1 > 10% - bad control
+19435	466A.00	Urine clinitest
+608	66A2.00	Follow-up diabetic assessment
+3550	66A..00	Diabetic monitoring
+13067	66AZ.00	Diabetic monitoring NOS
+13070	66A1.00	Initial diabetic assessment
+107452	66o..00	Further diabetic monitoring
+1173	C321.00	Pure hyperglyceridaemia
+1789	R105712	[D]Hyperglycaemia
+9310	Ryu8A00	"[X]Hyperglycaemia, unspecified"
+10166	C307000	Hyperglycinaemia
+11050	44Uz.11	Blood hyperglycaemia NOS
+18167	66AT.00	Annual diabetic blood test
+5234	6872.00	Diabetes mellitus screen
+9958	42W..00	Hb. A1C - diabetic control
+13597	42W1.00	Hb. A1C < 7% - good control
+13604	42W3.00	Hb. A1C > 10% - bad control
+14049	42WZ.00	Hb. A1C - diabetic control NOS
+14051	44TB.00	Haemoglobin A1c level
+14053	42W4.00	HbA1c level (DCCT aligned)
+96968	42W5.00	Haemoglobin A1c level - IFCC standardised
+108943	44TB000	Haemoglobin A1c (diagnostic reference range)
+108963	44TB100	Haemoglobin A1c (monitoring ranges)
+3668	44T2.00	Fasting blood sugar
+6110	44U..11	Blood sugar result
+7887	44T..11	Blood sugar method
+12677	ZV77100	[V]Screening for diabetes mellitus
+13193	66AC.00	Blood sugar charts
+13599	44T1.00	Random blood sugar
+13605	44T4.00	Dip-stick blood sugar
+13827	44T1200	Random blood sugar raised
+13833	44T9.00	Glucometer blood sugar
+14090	466..11	Sugar - urine test
+16697	46S..12	Sugars in urine
+16971	ZV77111	[V]Screening for diabetes mellitus (DM)
+19774	44T3.00	2 hours post food blood sugar
+19777	44T1000	Random blood sugar normal
+20690	44T3.11	Post prandial blood sugar
+23251	47BZ.00	Faecal sugars - general NOS
+26510	66AB.00	Urine sugar charts
+27581	68K1.11	Urine screen for sugar
+35576	47B..00	Faecal sugars - general
+36563	8CA4911	Pt advised re sugar free diet
+38062	44T5.00	Laboratory blood sugar
+39603	44T8.00	Bedtime blood sugar
+40176	44V..12	Blood sugar tolerance
+48564	44T7.00	Supper time blood sugar
+49951	13BB.00	High sugar diet
+51827	44T6.00	Lunch time blood sugar
+65526	46a..00	Urine sugar chromatography
+38266	43m8.00	Glutamic acid decarboxylase antibody level
+43543	43aE.00	Serum anti-glutamic decarboxylase level
+44993	46Z0.00	Urine screening test for diabetes
+60322	44SU.00	Serum glutamic acid level
+71100	44kP.00	Plasma glutamic acid level
+110548	43m8000	Serum glutamic acid decarboxylase antibody concentration
