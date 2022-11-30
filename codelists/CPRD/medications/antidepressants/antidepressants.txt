@@ -1,0 +1,1084 @@
+productname	formulation	route	drugsubstance	strength	database	productcode
+Valdoxan 25mg tablets	Tablet	Oral	Agomelatine	25.000mg	Aurum	5077141000033117
+Agomelatine 25mg tablets	Tablet	Oral	Agomelatine	25.000mg	Aurum	5077041000033116
+Valdoxan 25mg tablets (Servier Laboratories Ltd)	Tablet	Oral	Agomelatine	25mg	Gold	40295
+Agomelatine 25mg tablets	Tablet	Oral	Agomelatine	25mg	Gold	40494
+Amitriptyline 10mg tablets	Tablet	Oral	Amitriptyline hydrochloride	10.000mg	Aurum	60441000033116
+Amitriptyline 25mg tablets	Tablet	Oral	Amitriptyline hydrochloride	25.000mg	Aurum	60641000033119
+Amitriptyline 50mg tablets	Tablet	Oral	Amitriptyline hydrochloride	50.000mg	Aurum	60541000033115
+Amitriptyline 25mg / Perphenazine 2mg tablets	Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	25.000mg + 2.000mg	Aurum	3180441000033118
+Triptafen tablets	Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	25.000mg + 2.000mg	Aurum	1473341000033117
+Triptafen-M tablets	Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	10.000mg + 2.000mg	Aurum	1473441000033111
+Amitriptyline 10mg / Perphenazine 2mg tablets	Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	10.000mg + 2.000mg	Aurum	3180541000033117
+Amitriptyline 10mg/5ml oral suspension	Oral suspension	Oral	Amitriptyline hydrochloride	2.000mg/1.000ml	Aurum	5888641000033118
+Amitriptyline 10mg/5ml oral solution	Oral solution	Oral	Amitriptyline hydrochloride	2.000mg/1.000ml	Aurum	5490141000033118
+Amitriptyline 10mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	2.000mg/1.000ml	Aurum	10332441000033118
+Amitriptyline 25mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	25.000mg	Aurum	45841000033119
+Lentizol 25mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	25.000mg	Aurum	819741000033117
+Amitriptyline 25mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	5.000mg/1.000ml	Aurum	55441000033119
+Amitriptyline 50mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	50.000mg	Aurum	45941000033110
+Lentizol 50mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	50.000mg	Aurum	819841000033110
+Amitriptyline 50mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	10.000mg/1.000ml	Aurum	55541000033118
+Amitriptyline 25mg tablets	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	49
+Amitriptyline 10mg tablets	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	83
+Tryptizol 10mg/ml Injection (Merck Sharp & Dohme Ltd)	Injection		Amitriptyline Hydrochloride	10mg/ml	Gold	182
+Amitriptyline 25mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	25mg	Gold	487
+Amitriptyline 25mg / Perphenazine 2mg tablets	Tablet	Oral	Amitriptyline hydrochloride/Perphenazine	25mg + 2mg	Gold	595
+Triptafen tablets (AMCo)	Tablet	Oral	Amitriptyline hydrochloride/Perphenazine	25mg + 2mg	Gold	1208
+Triptafen m 2mg+10mg Tablet (Goldshield Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride/Perphenazine	10mg + 2mg	Gold	1453
+Amitriptyline 50mg tablets	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	1888
+Lentizol 25mg modified-release capsules (Pfizer Ltd)	Modified-release capsule	Oral	Amitriptyline hydrochloride	25mg	Gold	2486
+Amitriptyline 75mg modified-release capsules	Modified Release Capsules	Oral	Amitriptyline Hydrochloride	75mg	Gold	2525
+Lentizol 50mg modified-release capsules (Pfizer Ltd)	Modified-release capsule	Oral	Amitriptyline hydrochloride	50mg	Gold	2985
+Amitriptyline 10mg / Perphenazine 2mg tablets	Tablet	Oral	Amitriptyline hydrochloride/Perphenazine	10mg + 2mg	Gold	3490
+Amitriptyline 10mg/5ml sugar free oral solution	Oral Solution Sugar-free	Oral	Amitriptyline Hydrochloride	10mg/5ml	Gold	3777
+Amitriptyline 50mg modified-release capsules	Modified-release capsule	Oral	Amitriptyline hydrochloride	50mg	Gold	4682
+Amitriptyline 50mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	10mg/1ml	Gold	4690
+Amitriptyline 25mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	5mg/1ml	Gold	6312
+Perphenazine 2mg with Amitriptyline 25mg tablet	Tablets	Oral	Amitriptyline Hydrochloride/Perphenazine	2mg + 25mg	Gold	6894
+Tryptizol 25mg Tablet (Merck Sharp & Dohme Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	7751
+Tryptizol 50mg Tablet (Merck Sharp & Dohme Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	8332
+Tryptizol 10mg Tablet (Merck Sharp & Dohme Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	8726
+Tryptizol mr 75mg Modified-release capsule (Merck Sharp & Dohme Ltd)	Modified-release Capsule	Oral	Amitriptyline Hydrochloride	75mg	Gold	8831
+Tryptizol 10mg/5ml sugar free Oral solution (Merck Sharp and Dohme Ltd)	Oral Solution	Oral	Amitriptyline Hydrochloride	10mg/5ml	Gold	8878
+Limbitrol 10 Capsule (Roche Products Ltd)	Capsule	Oral	Amitriptyline Hydrochloride/Chlordiazepoxide		Gold	11963
+Limbitrol 5 Capsule (Roche Products Ltd)	Capsule	Oral	Amitriptyline Hydrochloride/Chlordiazepoxide		Gold	14534
+Perphenazine 2mg with Amitriptyline 10mg tablet	Tablets	Oral	Amitriptyline Hydrochloride/Perphenazine	2mg + 10mg	Gold	16323
+Amitriptyline 25mg / Chlordiazepoxide 10mg capsules	Capsules	Oral	Amitriptyline Hydrochloride/Chlordiazepoxide	25mg + 10mg	Gold	18342
+Amitriptyline 10mg/ml injection	Injection		Amitriptyline Hydrochloride	10mg/ml	Gold	19779
+Domical 25mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	20026
+Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules	Capsules	Oral	Amitriptyline Hydrochloride/Chlordiazepoxide	12.5mg + 5mg	Gold	21081
+Amitriptyline 10mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd)	Oral Solution	Oral	Amitriptyline Hydrochloride	10mg/5ml	Gold	22070
+Amitriptyline 25mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	24134
+Amitriptyline 10mg tablets (Actavis UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	24141
+Amitriptyline 25mg tablets (Actavis UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	24145
+Amitriptyline 25mg tablets (Teva UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	24147
+Amitriptyline 10mg tablets (Teva UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	24152
+Elavil 10mg Tablet (DDSA Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	24680
+Domical 10mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	26213
+Domical 50mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	27008
+Amitriptyline 25mg Tablet (Sussex Pharmaceutical Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	32439
+Amitriptyline 10mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	33090
+Amitriptyline 50mg tablets (Teva UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	33624
+Amitriptyline 50mg tablets (Wockhardt UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	34107
+Amitriptyline 25mg tablets (Wockhardt UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	34129
+Amitriptyline 50mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	34182
+Amitriptyline 25mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	34197
+Amitriptyline 25mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	Oral solution	Oral	Amitriptyline hydrochloride	5mg/1ml	Gold	34224
+Amitriptyline 50mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	Oral solution	Oral	Amitriptyline hydrochloride	10mg/1ml	Gold	34251
+Amitriptyline 50mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	34274
+Amitriptyline 10mg tablets (Wockhardt UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	34401
+Amitriptyline 25mg Tablet (Regent Laboratories Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	34474
+Amitriptyline 25mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	34503
+Amitriptyline 50mg tablets (Actavis UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	34634
+Amitriptyline 10mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	34731
+Amitriptyline 25mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	34782
+Amitriptyline 10mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	34916
+Triptafen-M tablets (Mercury Pharma Group Ltd)	Tablet	Oral	Amitriptyline hydrochloride/Perphenazine	10mg + 2mg	Gold	38827
+Amitriptyline 50mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	40396
+Amitriptyline 25mg Tablet (Celltech Pharma Europe Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	41729
+Amitriptyline 25mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	42078
+Amitriptyline 25mg Tablet (Crosspharma Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	42394
+Amitriptyline 10mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	45233
+Amitriptyline 10mg Tablet (Sussex Pharmaceutical Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	45242
+Amitriptyline 10mg/5ml oral solution	Oral solution	Oral	Amitriptyline hydrochloride	2mg/1ml	Gold	46801
+Amitriptyline 10mg/5ml oral suspension	Oral suspension	Oral	Amitriptyline hydrochloride	2mg/1ml	Gold	46818
+Amitriptyline 50mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	46970
+Amitriptyline oral solution	Oral Liquid	Oral	Amitriptyline Hydrochloride		Gold	48065
+Amitriptyline 10mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	52867
+Amitriptyline 25mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	54877
+Amitriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	55139
+Amitriptyline 10mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	55491
+Amitriptyline 10mg tablets (Phoenix Healthcare Distribution Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	57107
+Amitriptyline 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	57972
+Amitriptyline 10mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	59161
+Amitriptyline 50mg/5ml oral solution sugar free (Wockhardt UK Ltd)	Oral solution	Oral	Amitriptyline hydrochloride	10mg/1ml	Gold	59820
+Amitriptyline 25mg tablets (Phoenix Healthcare Distribution Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	60355
+Amitriptyline 25mg/5ml oral solution sugar free (Wockhardt UK Ltd)	Oral solution	Oral	Amitriptyline hydrochloride	5mg/1ml	Gold	60410
+Amitriptyline 10mg tablets (DE Pharmaceuticals)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	61835
+Amitriptyline 10mg/5ml oral solution sugar free	Oral solution	Oral	Amitriptyline hydrochloride	2mg/1ml	Gold	64000
+Amitriptyline 5mg/5ml oral solution	Oral solution	Oral	Amitriptyline hydrochloride	1mg/1ml	Gold	64141
+Amitriptyline 50mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	64330
+Amitriptyline 25mg tablets (DE Pharmaceuticals)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	64647
+Amitriptyline 25mg tablets (Sandoz Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	65439
+Amitriptyline 10mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	65879
+Amitriptyline 25mg tablets (Crescent Pharma Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	65987
+Amitriptyline 25mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	66572
+Amitriptyline 10mg tablets (Mawdsley-Brooks & Company Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	66578
+Amitriptyline 25mg tablets (Mawdsley-Brooks & Company Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	66579
+Amitriptyline 25mg/5ml oral solution sugar free (DE Pharmaceuticals)	Oral solution	Oral	Amitriptyline hydrochloride	5mg/1ml	Gold	67127
+Amitriptyline 50mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Amitriptyline hydrochloride	50mg	Gold	69712
+Amitriptyline 10mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)	Oral solution	Oral	Amitriptyline hydrochloride	2mg/1ml	Gold	70300
+Amitriptyline 10mg tablets (Arrow Generics Ltd)	Tablet	Oral	Amitriptyline hydrochloride	10mg	Gold	70991
+Amitriptyline 25mg tablets (Arrow Generics Ltd)	Tablet	Oral	Amitriptyline hydrochloride	25mg	Gold	71042
+Amoxapine 50mg tablets	Tablet	Oral	Amoxapine	50.000mg	Aurum	60941000033114
+Asendis 50mg tablets	Tablet	Oral	Amoxapine	50.000mg	Aurum	87941000033111
+Asendis 100mg tablets	Tablet	Oral	Amoxapine	100.000mg	Aurum	87641000033116
+Amoxapine 100mg tablets	Tablet	Oral	Amoxapine	100.000mg	Aurum	61041000033116
+Amoxapine 50mg tablets	Tablet	Oral	Amoxapine	50mg	Gold	3351
+Amoxapine 100mg tablets	Tablet	Oral	Amoxapine	100mg	Gold	3652
+Amoxapine 150mg tablets	Tablets	Oral	Amoxapine	150mg	Gold	4411
+Asendis 50mg Tablet (Wyeth Pharmaceuticals)	Tablet	Oral	Amoxapine	50mg	Gold	14398
+Asendis 25mg Tablet (Wyeth Pharmaceuticals)	Tablet	Oral	Amoxapine	25mg	Gold	15380
+Amoxapine 25mg tablets	Tablets	Oral	Amoxapine	25mg	Gold	17319
+Asendis 100mg Tablet (Wyeth Pharmaceuticals)	Tablet	Oral	Amoxapine	100mg	Gold	21357
+Asendis 150mg Tablet (Wyeth Pharmaceuticals)	Tablet	Oral	Amoxapine	150mg	Gold	24723
+Asendis 50mg tablets (Mercury Pharma Group Ltd)	Tablet	Oral	Amoxapine	50mg	Gold	55289
+Cipramil 20mg tablets	Tablet	Oral	Citalopram hydrobromide	20.000mg	Aurum	259141000033116
+Citalopram 20mg tablets	Tablet	Oral	Citalopram hydrobromide	20.000mg	Aurum	259241000033111 
+Citalopram 10mg tablets	Tablet	Oral	Citalopram hydrobromide	10.000mg	Aurum	1583341000033118
+Cipramil 10mg tablets	Tablet	Oral	Citalopram hydrobromide	10.000mg	Aurum	1583241000033111
+Cipramil 40mg tablets	Tablet	Oral	Citalopram hydrobromide	40.000mg	Aurum	1583041000033115
+Citalopram 40mg tablets	Tablet	Oral	Citalopram hydrobromide	40.000mg	Aurum	1583141000033116
+Citalopram 40mg/ml oral drops sugar free	Oral drops	Oral	Citalopram hydrochloride	40.000mg/1.000ml	Aurum	1900641000033112
+Cipramil 40mg/ml drops	Oral drops	Oral	Citalopram hydrochloride	40.000mg/1.000ml	Aurum	1900741000033115
+Cipralex 10mg tablets	Tablet	Oral	Escitalopram oxalate	10.000mg	Aurum	2749641000033115
+Escitalopram 10mg tablets	Tablet	Oral	Escitalopram oxalate	10.000mg	Aurum	2749541000033116
+Escitalopram 20mg tablets	Tablet	Oral	Escitalopram oxalate	20.000mg	Aurum	2951341000033116
+Cipralex 20mg tablets	Tablet	Oral	Escitalopram oxalate	20.000mg	Aurum	2951441000033110
+Escitalopram 5mg tablets	Tablet	Oral	Escitalopram oxalate	5.000mg	Aurum	3030341000033110
+Cipralex 5mg tablets	Tablet	Oral	Escitalopram oxalate	5.000mg	Aurum	3030541000033115
+Cipralex 10mg/ml oral drops	Oral drops	Oral	Escitalopram oxalate	10.000mg/1.000ml	Aurum	3928941000033119
+Escitalopram 10mg/ml oral drops sugar free	Oral drops	Oral	Escitalopram oxalate	10.000mg/1.000ml	Aurum	3928841000033110
+Cipralex 20mg/ml oral drops	Oral drops	Oral	Escitalopram oxalate	20.000mg/1.000ml	Aurum	5128641000033118
+Escitalopram 20mg/ml oral drops sugar free	Oral drops	Oral	Escitalopram oxalate	20.000mg/1.000ml	Aurum	5128541000033119
+Citalopram 20mg tablets	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	67
+Citalopram 10mg tablets	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	476
+Citalopram 40mg/ml oral drops sugar free	Oral drops	Oral	Citalopram hydrochloride	40mg/1ml	Gold	513
+Escitalopram 10mg tablets	Tablet	Oral	Escitalopram oxalate	10mg	Gold	603
+Cipralex 10mg tablets (Lundbeck Ltd)	Tablet	Oral	Escitalopram oxalate	10mg	Gold	648
+Cipralex 5mg tablets (Lundbeck Ltd)	Tablet	Oral	Escitalopram oxalate	5mg	Gold	785
+Cipramil 40mg/ml drops (Lundbeck Ltd)	Oral drops	Oral	Citalopram hydrochloride	40mg/1ml	Gold	815
+Cipramil 20mg tablets (Lundbeck Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	1712
+Cipramil 40mg tablets (Lundbeck Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	2408
+Cipramil 10mg tablets (Lundbeck Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	3861
+Citalopram 40mg tablets	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	4770
+Escitalopram 20mg tablets	Tablet	Oral	Escitalopram oxalate	20mg	Gold	6218
+Cipralex 20mg tablets (Lundbeck Ltd)	Tablet	Oral	Escitalopram oxalate	20mg	Gold	6360
+Escitalopram 5mg tablets	Tablet	Oral	Escitalopram oxalate	5mg	Gold	6405
+Escitalopram 10mg/ml oral drops sugar free	Oral drops	Oral	Escitalopram oxalate	10mg/1ml	Gold	20152
+Citalopram 20mg tablets (Sandoz Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	26016
+Cipralex 10mg/ml oral drops (Lundbeck Ltd)	Oral drops	Oral	Escitalopram oxalate	10mg/1ml	Gold	26056
+Paxoran 20mg Tablet (Ranbaxy (UK) Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	29756
+Paxoran 10mg Tablet (Ranbaxy (UK) Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	32546
+Citalopram 10mg tablets (Actavis UK Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	32848
+Citalopram 10mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	33720
+Citalopram 20mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34356
+Citalopram 10mg tablets (Zentiva)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	34413
+Citalopram 20mg tablets (Mylan)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34415
+Citalopram 10mg tablets (Mylan)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	34436
+Citalopram 40mg tablets (Sandoz Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	34466
+Citalopram 10mg Tablet (Neo Laboratories Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	34498
+Citalopram 10mg tablets (Sandoz Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	34499
+Citalopram 10mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	34586
+Citalopram 40mg tablets (Mylan)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	34603
+Citalopram 20mg Tablet (Neo Laboratories Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34722
+Citalopram 20mg tablets (Zentiva)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34822
+Citalopram 20mg tablets (Actavis UK Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34871
+Citalopram 20mg tablets (Teva UK Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34966
+Citalopram 20mg tablets (Niche Generics Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	34970
+Citalopram 40mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	36746
+Escitalopram 20mg/ml oral drops sugar free	Oral drops	Oral	Escitalopram oxalate	20mg/1ml	Gold	40726
+Cipralex 20mg/ml oral drops (Lundbeck Ltd)	Oral drops	Oral	Escitalopram oxalate	20mg/1ml	Gold	41062
+Citalopram 10mg tablets (Teva UK Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	41528
+Citalopram 10mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	42660
+Citalopram 40mg Tablet (Neo Laboratories Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	43519
+Citalopram 40mg tablets (Niche Generics Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	45223
+Citalopram 10mg tablets (Niche Generics Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	45286
+Citalopram 40mg tablets (Teva UK Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	45304
+Citalopram 40mg tablets (Zentiva)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	46926
+Citalopram 40mg tablets (Actavis UK Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	46977
+Citalopram 20mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	48026
+Citalopram 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	49165
+Citalopram 10mg tablets (Arrow Generics Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	52100
+Citalopram 20mg tablets (DE Pharmaceuticals)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	52354
+Citalopram 10mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	52408
+Citalopram 20mg tablets (Bristol Laboratories Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	52607
+Citalopram 10mg tablets (PLIVA Pharma Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	52824
+Citalopram 20mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	53394
+Citalopram 10mg tablets (Bristol Laboratories Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	53787
+Citalopram 10mg/5ml oral suspension	Oral suspension	Oral	Citalopram hydrobromide	2mg/1ml	Gold	54827
+Citalopram 40mg tablets (DE Pharmaceuticals)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	55033
+Citalopram 20mg tablets (Arrow Generics Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	56009
+Citalopram 40mg/ml oral drops sugar free (Actavis UK Ltd)	Oral drops	Oral	Citalopram hydrochloride	40mg/1ml	Gold	56292
+Citalopram 10mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	56355
+Citalopram 40mg/ml oral drops sugar free (A A H Pharmaceuticals Ltd)	Oral drops	Oral	Citalopram hydrochloride	40mg/1ml	Gold	57936
+Citalopram 20mg tablets (Aurobindo Pharma Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	58476
+Citalopram 10mg tablets (Ranbaxy (UK) Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	59193
+Citalopram 10mg tablets (Aurobindo Pharma Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	59650
+Citalopram 20mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	60568
+Citalopram 40mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	60839
+Citalopram 10mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	60888
+Citalopram 10mg tablets (Rivopharm (UK) Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	63441
+Escitalopram 10mg tablets (Actavis UK Ltd)	Tablet	Oral	Escitalopram oxalate	10mg	Gold	63916
+Cipramil 20mg tablets (DE Pharmaceuticals)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	63953
+Citalopram 10mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	64423
+Citalopram 20mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	67097
+Citalopram 40mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	69571
+Citalopram 40mg tablets (Aurobindo Pharma Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	70790
+Citalopram 10mg tablets (DE Pharmaceuticals)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	71005
+Citalopram 20mg/5ml oral suspension	Oral suspension	Oral	Citalopram hydrobromide	4mg/1ml	Gold	71848
+Citalopram 40mg/ml oral drops sugar free (Teva UK Ltd)	Oral drops	Oral	Citalopram hydrochloride	40mg/1ml	Gold	72124
+Citalopram 20mg tablets (Ranbaxy (UK) Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	72373
+Escitalopram 20mg tablets (Teva UK Ltd)	Tablet	Oral	Escitalopram oxalate	20mg	Gold	72773
+Citalopram 20mg tablets (PLIVA Pharma Ltd)	Tablet	Oral	Citalopram hydrobromide	20mg	Gold	73417
+Citalopram 30mg tablets			Citalopram Hydrobromide		Gold	74753
+Cipralex 10mg tablets (DE Pharmaceuticals)	Tablet	Oral	Escitalopram oxalate	10mg	Gold	74785
+Cipralex 10mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Escitalopram oxalate	10mg	Gold	74858
+Escitalopram 10mg tablets (Brown & Burk UK Ltd)	Tablet	Oral	Escitalopram oxalate	10mg	Gold	74993
+Citalopram 40mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	75075
+Citalopram 10mg tablets (Phoenix Healthcare Distribution Ltd)	Tablet	Oral	Citalopram hydrobromide	10mg	Gold	75697
+Citalopram 40mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Citalopram hydrobromide	40mg	Gold	75702
+Clomipramine 10mg capsules	Capsule	Oral	Clomipramine hydrochloride	10.000mg	Aurum	262041000033115
+Anafranil 10mg capsules	Capsule	Oral	Clomipramine hydrochloride	10.000mg	Aurum	61941000033115
+Anafranil 25mg capsules	Capsule	Oral	Clomipramine hydrochloride	25.000mg	Aurum	62041000033114
+Clomipramine 25mg capsules	Capsule	Oral	Clomipramine hydrochloride	25.000mg	Aurum	262141000033116
+Clomipramine 50mg capsules	Capsule	Oral	Clomipramine hydrochloride	50.000mg	Aurum	262241000033111
+Anafranil 50mg capsules	Capsule	Oral	Clomipramine hydrochloride	50.000mg	Aurum	62141000033113
+Clomipramine 25mg/5ml oral solution	Oral solution	Oral	Clomipramine hydrochloride	5.000mg/1.000ml	Aurum	284741000033110
+Anafranil 25mg/5ml syrup	Oral solution	Oral	Clomipramine hydrochloride	5.000mg/1.000ml	Aurum	68641000033117
+Clomipramine 50mg/5ml oral suspension	Oral suspension	Oral	Clomipramine hydrochloride	10.000mg/1.000ml	Aurum	4431541000033115
+Clomipramine 75mg modified-release tablets	Modified-release tablet	Oral	Clomipramine hydrochloride	75.000mg	Aurum	285741000033111
+Anafranil SR 75mg tablets	Modified-release tablet	Oral	Clomipramine hydrochloride	75.000mg	Aurum	70241000033114
+Clomipramine 10mg capsules	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	3194
+Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	3657
+Clomipramine 25mg capsules	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	3670
+Clomipramine 50mg capsules	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	3925
+Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	7515
+Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	7693
+Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd)	Modified-release tablet	Oral	Clomipramine hydrochloride	75mg	Gold	7894
+Clomipramine 75mg modified-release tablets	Modified-release tablet	Oral	Clomipramine hydrochloride	75mg	Gold	8661
+Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd)	Oral solution	Oral	Clomipramine hydrochloride	5mg/1ml	Gold	8719
+Clomipramine 25mg/5ml oral solution	Oral solution	Oral	Clomipramine hydrochloride	5mg/1ml	Gold	8720
+Clomipramine 25mg/2ml solution for injection ampoules	Solution for injection	Intravenous/Intramuscular	Clomipramine hydrochloride	12.5mg/1ml	Gold	26513
+Anafranil 25mg/2ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd)	Solution for injection	Intravenous/Intramuscular	Clomipramine hydrochloride	12.5mg/1ml	Gold	30375
+Clomipramine 25mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	34245
+Clomipramine 10mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	34866
+Clomipramine 50mg/5ml oral suspension	Oral suspension	Oral	Clomipramine hydrochloride	10mg/1ml	Gold	38274
+Clomipramine 25mg capsules (IVAX Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	41563
+Clomipramine 50mg capsules (IVAX Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	41597
+Clomipramine 10mg capsules (IVAX Pharmaceuticals UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	41628
+Clomipramine 10mg capsules (Teva UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	43561
+Clomipramine 50mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	45318
+Clomipramine 25mg capsules (Teva UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	45350
+Clomipramine 50mg/5ml oral solution	Oral solution	Oral	Clomipramine hydrochloride	10mg/1ml	Gold	53161
+Clomipramine 50mg capsules (Kent Pharmaceuticals Ltd)	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	53187
+Clomipramine 10mg capsules (Mylan)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	62620
+Clomipramine 25mg/5ml oral suspension	Oral suspension	Oral	Clomipramine hydrochloride	5mg/1ml	Gold	64458
+Clomipramine 25mg capsules (Waymade Healthcare Plc)	Capsule	Oral	Clomipramine hydrochloride	25mg	Gold	65762
+Clomipramine 50mg capsules (Teva UK Ltd)	Capsule	Oral	Clomipramine hydrochloride	50mg	Gold	65804
+Clomipramine 10mg capsules (Almus Pharmaceuticals Ltd)	Capsule	Oral	Clomipramine hydrochloride	10mg	Gold	68665
+Dothapax 25 capsules	Capsule	Oral	Dosulepin hydrochloride	25.000mg	Aurum	472141000033110
+Prothiaden 25mg capsules	Capsule	Oral	Dosulepin hydrochloride	25.000mg	Aurum	1111541000033117
+Prepadine 25mg capsules	Capsule	Oral	Dosulepin hydrochloride	25.000mg	Aurum	1111641000033116
+Dosulepin 25mg capsules	Capsule	Oral	Dosulepin hydrochloride	25.000mg	Aurum	3088941000033118
+Dosulepin 75mg tablets	Tablet	Oral	Dosulepin hydrochloride	75.000mg	Aurum	3089041000033110
+Prepadine 75mg tablets	Tablet	Oral	Dosulepin hydrochloride	75.000mg	Aurum	1135941000033116
+Prothiaden 75mg tablets	Tablet	Oral	Dosulepin hydrochloride	75.000mg	Aurum	1135541000033110
+Dothapax 75 tablets	Tablet	Oral	Dosulepin hydrochloride	75.000mg	Aurum	479641000033111
+Dosulepin 75mg/5ml oral suspension	Oral suspension	Oral	Dosulepin hydrochloride	15.000mg/1.000ml	Aurum	5992241000033114
+Dosulepin 75mg/5ml oral solution	Oral solution	Oral	Dosulepin hydrochloride	15.000mg/1.000ml	Aurum	3089241000033119
+Dosulepin 25mg/5ml oral suspension	Oral suspension	Oral	Dosulepin hydrochloride	5.000mg/1.000ml	Aurum	5891041000033116
+Dosulepin 25mg/5ml oral solution	Oral solution	Oral	Dosulepin hydrochloride	5.000mg/1.000ml	Aurum	3089141000033114
+Dosulepin 75mg tablets	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	74
+Dosulepin 25mg capsules	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	84
+Prothiaden 25mg capsules (Teofarma)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	1169
+Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	1940
+Prothiaden 75mg tablets (Teofarma)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	2320
+Dosulepin 25mg/5ml oral solution sugar free	Oral Solution Sugar-free	Oral	Dosulepin Hydrochloride	25mg/5ml	Gold	6054
+Dosulepin 75mg/5ml oral solution sugar free	Oral Solution Sugar-free	Oral	Dosulepin Hydrochloride	75mg/5ml	Gold	10948
+Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	15632
+Dosulepin 25mg/5ml mixture	Mixture	Oral	Dosulepin Hydrochloride	25mg/5ml	Gold	19168
+Dosulepin 75mg tablets (Actavis UK Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	19186
+Thaden 75mg tablets (Opus Pharmaceuticals Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	21157
+Prepadine 75mg tablets (Teva UK Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	21819
+Prepadine 25mg capsules (Teva UK Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	21820
+Dosulepin 25mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	23426
+Dosulepin 25mg capsules (Mylan)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	29875
+Thaden 25mg capsules (Opus Pharmaceuticals Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	30376
+Dosulepin 25mg capsules (IVAX Pharmaceuticals UK Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	31824
+Dosulepin 75mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	31826
+Dosulepin 75mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	32121
+Dosulepin 25mg capsules (Sandoz Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	33164
+Dosulepin 75mg tablets (Teva UK Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	34058
+Dosulepin 25mg capsules (Teva UK Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	34223
+Dosulepin 75mg tablets (Mylan)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	34525
+Dosulepin 25mg capsules (Sovereign Medical Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	34641
+Dosulepin 25mg capsules (Almus Pharmaceuticals Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	34643
+Dosulepin 25mg capsules (Actavis UK Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	34745
+Dosulepin 75mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	42734
+Dosulepin 100mg/5ml oral solution	Oral solution	Oral	Dosulepin hydrochloride	20mg/1ml	Gold	43024
+Dosulepin 25mg capsules (Kent Pharmaceuticals Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	44853
+Dosulepin 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd)	Oral Solution	Oral	Dosulepin Hydrochloride	25mg/5ml	Gold	45737
+Dosulepin 25mg/5ml oral solution	Oral solution	Oral	Dosulepin hydrochloride	5mg/1ml	Gold	50722
+Prothiaden 25mg capsules (Stephar (U.K.) Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	51758
+Dosulepin 75mg/5ml oral solution	Oral solution	Oral	Dosulepin hydrochloride	15mg/1ml	Gold	57926
+Dosulepin 75mg tablets (Sandoz Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	62681
+Dosulepin 75mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	67728
+Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	67990
+Dosulepin 25mg/5ml oral suspension	Oral suspension	Oral	Dosulepin hydrochloride	5mg/1ml	Gold	70593
+Dosulepin 25mg Capsule (Celltech Pharma Europe Ltd)	Capsule	Oral	Dosulepin hydrochloride	25mg	Gold	70838
+Dosulepin 25mg/5ml oral solution sugar free (Special Order)	Oral solution	Oral	Dosulepin hydrochloride	5mg/1ml	Gold	71023
+Dosulepin 75mg tablets (Sovereign Medical Ltd)	Tablet	Oral	Dosulepin hydrochloride	75mg	Gold	71059
+Sinequan 10mg capsules	Capsule	Oral	Doxepin hydrochloride	10.000mg	Aurum	1294541000033115
+Doxepin 10mg capsules	Capsule	Oral	Doxepin hydrochloride	10.000mg	Aurum	473041000033119
+Doxepin 25mg capsules	Capsule	Oral	Doxepin hydrochloride	25.000mg	Aurum	473141000033115
+Sinequan 25mg capsules	Capsule	Oral	Doxepin hydrochloride	25.000mg	Aurum	1294641000033119
+Sinepin 25mg capsules	Capsule	Oral	Doxepin hydrochloride	25.000mg	Aurum	4010441000033114
+Sinepin 50mg capsules	Capsule	Oral	Doxepin hydrochloride	50.000mg	Aurum	4010541000033110
+Sinequan 50mg capsules	Capsule	Oral	Doxepin hydrochloride	50.000mg	Aurum	1294741000033111
+Doxepin 50mg capsules	Capsule	Oral	Doxepin hydrochloride	50.000mg	Aurum	473241000033110
+Doxepin 75mg capsules	Capsule	Oral	Doxepin hydrochloride	75.000mg	Aurum	473341000033117
+Sinequan 75mg capsules	Capsule	Oral	Doxepin hydrochloride	75.000mg	Aurum	1294841000033118
+Doxepin 5% cream	Cream	Cutaneous	Doxepin hydrochloride	50.000mg/1.000gram	Aurum	1603341000033112
+Xepin 5% cream	Cream	Cutaneous	Doxepin hydrochloride	50.000mg/1.000gram	Aurum	1712041000033111
+Doxepin 50mg/5ml oral solution	Oral solution	Oral	Doxepin hydrochloride	10.000mg/1.000ml	Aurum	4954041000033114
+Doxepin 25mg capsules	Capsule	Oral	Doxepin hydrochloride	25mg	Gold	3554
+Doxepin 10mg capsules	Capsule	Oral	Doxepin hydrochloride	10mg	Gold	3842
+Doxepin 50mg capsules	Capsule	Oral	Doxepin hydrochloride	50mg	Gold	5073
+Doxepin 5% cream	Cream	Cutaneous	Doxepin hydrochloride	50mg/1gram	Gold	5190
+Doxepin 75mg capsules	Capsule	Oral	Doxepin hydrochloride	75mg	Gold	7059
+Xepin 5% Cream (Bioglan Laboratories Ltd)	Cream	Cutaneous	Doxepin hydrochloride	50mg/1gram	Gold	9558
+Sinequan 10mg capsules (Pfizer Ltd)	Capsule	Oral	Doxepin hydrochloride	10mg	Gold	10413
+Sinequan 50mg capsules (Pfizer Ltd)	Capsule	Oral	Doxepin hydrochloride	50mg	Gold	12125
+Sinequan 25mg capsules (Pfizer Ltd)	Capsule	Oral	Doxepin hydrochloride	25mg	Gold	12129
+Sinequan 75mg capsules (Pfizer Ltd)	Capsule	Oral	Doxepin hydrochloride	75mg	Gold	14519
+Xepin 5% cream (Cambridge Healthcare Supplies Ltd)	Cream	Cutaneous	Doxepin hydrochloride	50mg/1gram	Gold	15975
+Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd)	Capsule	Oral	Doxepin hydrochloride	25mg	Gold	35258
+Sinepin 50mg capsules (Marlborough Pharmaceuticals Ltd)	Capsule	Oral	Doxepin hydrochloride	50mg	Gold	35493
+Doxepin 25mg/5ml oral suspension	Oral Suspension	Oral	Doxepin Hydrochloride	25mg/5ml	Gold	40777
+Doxepin 50mg/5ml oral solution	Oral solution	Oral	Doxepin hydrochloride	10mg/1ml	Gold	73363
+Duciltia 60mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60.000mg	Aurum	10701941000033111
+Depalta 60mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60.000mg	Aurum	12476041000033112
+Duloxetine 60mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60.000mg	Aurum	3226741000033119
+Cymbalta 60mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60.000mg	Aurum	3226941000033116
+Duciltia 30mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30.000mg	Aurum	10701841000033115
+Depalta 30mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30.000mg	Aurum	12475941000033119
+Duloxetine 30mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30.000mg	Aurum	3226641000033111
+Cymbalta 30mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30.000mg	Aurum	3226841000033112
+Duloxetine 20mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20.000mg	Aurum	3177641000033112
+Yentreve 20mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20.000mg	Aurum	3177841000033113
+Yentreve 40mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	40.000mg	Aurum	3177941000033117
+Duloxetine 40mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	40.000mg	Aurum	3177741000033115
+Duloxetine 60mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	6895
+Duloxetine 30mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	7122
+Duloxetine 40mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	40mg	Gold	7147
+Duloxetine 20mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	7153
+Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	13151
+Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	40mg	Gold	14803
+Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	14849
+Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	16969
+Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	51383
+Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	62688
+Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	63216
+Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	63370
+Duloxetine 60mg gastro-resistant capsules (A A H Pharmaceuticals Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	63763
+Duloxetine 60mg gastro-resistant capsules (Teva UK Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	64442
+Duloxetine 20mg gastro-resistant capsules (DE Pharmaceuticals)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	65165
+Duloxetine 30mg gastro-resistant capsules (A A H Pharmaceuticals Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	65618
+Duloxetine 30mg gastro-resistant capsules (Actavis UK Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	65809
+Duloxetine 60mg gastro-resistant capsules (Actavis UK Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	65888
+Duloxetine 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	65892
+Duloxetine 60mg gastro-resistant capsules (DE Pharmaceuticals)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	66405
+Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	66412
+Duloxetine 20mg gastro-resistant capsules (Actavis UK Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	67564
+Duloxetine 60mg gastro-resistant capsules (Zentiva)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	68096
+Duloxetine 60mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	69428
+Duloxetine 60mg gastro-resistant capsules (Creo Pharma Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	69752
+Duloxetine 60mg gastro-resistant capsules (Consilient Health Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	69965
+Duloxetine 20mg gastro-resistant capsules (A A H Pharmaceuticals Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	70063
+Duloxetine 30mg gastro-resistant capsules (Teva UK Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	70405
+Duloxetine 30mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	70728
+Duloxetine 20mg gastro-resistant capsules (Zentiva)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20mg	Gold	71669
+Duloxetine 60mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	72211
+Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	73298
+Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	73540
+Duloxetine 60mg gastro-resistant capsules (Aspire Pharma Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	73868
+Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	60mg	Gold	74190
+Duloxetine 60mg/5ml oral suspension	Oral suspension	Oral	Duloxetine hydrochloride	12mg/1ml	Gold	74774
+Duloxetine 30mg gastro-resistant capsules (Creo Pharma Ltd)	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	30mg	Gold	74907
+Prozac 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	1112441000033114
+Felicium 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	1923141000033118
+Oxactin 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	2602041000033119
+Ranflutin 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	2710441000033119
+Fluoxetine 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	577841000033114
+Fluoxetine 20mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	4.000mg/1.000ml	Aurum	2770641000033114
+Prozac 20mg/5ml liquid	Oral solution	Oral	Fluoxetine hydrochloride	4.000mg/1.000ml	Aurum	1129541000033110
+Prozit 20mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	4.000mg/1.000ml	Aurum	2770541000033113
+Prozac 60mg capsules	Capsule	Oral	Fluoxetine hydrochloride	60.000mg	Aurum	1111941000033111
+Fluoxetine 60mg capsules	Capsule	Oral	Fluoxetine hydrochloride	60.000mg	Aurum	579041000033111
+Fluoxetine 10mg capsules	Capsule	Oral	Fluoxetine hydrochloride	10.000mg	Aurum	11603841000033119
+Fluoxetine 10mg tablets	Tablet	Oral	Fluoxetine hydrochloride	10.000mg	Aurum	6496341000033116
+Fluoxetine 40mg capsules	Capsule	Oral	Fluoxetine hydrochloride	40.000mg	Aurum	11707541000033118
+Fluoxetine 20mg/5ml oral solution sugar free	Oral solution	Oral	Fluoxetine hydrochloride	4.000mg/1.000ml	Aurum	5749441000033115
+Prozep 20mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	4.000mg/1.000ml	Aurum	4498641000033115
+Fluoxetine 20mg dispersible tablets sugar free	Dispersible tablet	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	9120641000033112
+Olena 20mg dispersible tablets	Dispersible tablet	Oral	Fluoxetine hydrochloride	20.000mg	Aurum	9120741000033115
+Fluoxetine 30mg capsules	Capsule	Oral	Fluoxetine hydrochloride	30.000mg	Aurum	11707441000033119
+Fluoxetine 20mg capsules	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	22
+Prozac 20mg/5ml liquid (Eli Lilly and Company Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	252
+Prozac 20mg capsules (Eli Lilly and Company Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	418
+Fluoxetine 20mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	2548
+Fluoxetine 60mg capsules	Capsule	Oral	Fluoxetine hydrochloride	60mg	Gold	4075
+Prozac 60mg capsules (Eli Lilly and Company Ltd)	Capsule	Oral	Fluoxetine hydrochloride	60mg	Gold	4907
+Oxactin 20mg capsules (Discovery Pharmaceuticals)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	14740
+Fluoxetine 20mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	19183
+Fluoxetine 20mg capsules (Ranbaxy (UK) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	19470
+Ranflutin 20mg capsules (Ranbaxy (UK) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	29786
+Fluoxetine 20mg/5ml oral solution (Teva UK Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	30258
+Felicium 20mg capsules (Opus Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	33071
+Fluoxetine 20mg capsules (Zentiva)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	33410
+Prozit 20mg/5ml oral solution (Pinewood Healthcare)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	33779
+Fluoxetine 20mg capsules (Genus Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	34202
+Fluoxetine 20mg/5ml oral solution (A A H Pharmaceuticals Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	34216
+Fluoxetine 20mg capsules (Mylan)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	34288
+Fluoxetine 20mg capsules (IVAX Pharmaceuticals UK Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	34294
+Fluoxetine 20mg capsules (Teva UK Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	34456
+Fluoxetine 20mg capsules (Tillomed Laboratories Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	34849
+Fluoxetine 60mg capsules (Mylan)	Capsule	Oral	Fluoxetine hydrochloride	60mg	Gold	34856
+Fluoxetine 20mg/5ml oral solution sugar free	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	36893
+Prozep 20mg/5ml oral solution (Chemidex Pharma Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	37256
+Fluoxetine 20mg Capsule (Milpharm Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	38890
+Fluoxetine 20mg capsules (Niche Generics Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	42107
+Fluoxetine 10mg tablets	Tablet	Oral	Fluoxetine hydrochloride	10mg	Gold	42499
+Fluoxetine 20mg/5ml oral solution (IVAX Pharmaceuticals UK Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	42803
+Fluoxetine 20mg capsules (Sandoz Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	45224
+Fluoxetine 20mg capsules (Fannin UK Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	45247
+Fluoxetine 20mg capsules (Wockhardt UK Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	45316
+Fluoxetine 20mg capsules (Actavis UK Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	45329
+Prozac 20mg capsules (Lexon (UK) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	48220
+Prozac 20mg capsules (Waymade Healthcare Plc)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	57532
+Fluoxetine 20mg capsules (Milpharm Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	59358
+Fluoxetine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Fluoxetine hydrochloride	20mg	Gold	60138
+Fluoxetine 20mg dispersible tablets sugar free	Dispersible tablet	Oral	Fluoxetine hydrochloride	20mg	Gold	60534
+Fluoxetine 20mg/5ml oral solution (Kent Pharmaceuticals Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	60619
+Fluoxetine 20mg capsules (Alliance Healthcare (Distribution) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	60962
+Prozac 20mg capsules (Mawdsley-Brooks & Company Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	61335
+Fluoxetine 20mg capsules (Phoenix Healthcare Distribution Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	62155
+Olena 20mg dispersible tablets (AMCo)	Dispersible tablet	Oral	Fluoxetine hydrochloride	20mg	Gold	62335
+Fluoxetine 20mg capsules (Morningside Healthcare Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	66744
+Fluoxetine 20mg capsules (Waymade Healthcare Plc)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	67092
+Fluoxetine 10mg capsules	Capsule	Oral	Fluoxetine hydrochloride	10mg	Gold	67431
+Fluoxetine 30mg capsules	Capsule	Oral	Fluoxetine hydrochloride	30mg	Gold	67496
+Fluoxetine 40mg capsules	Capsule	Oral	Fluoxetine hydrochloride	40mg	Gold	67562
+Fluoxetine 20mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	67736
+Prozac 20mg capsules (DE Pharmaceuticals)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	67758
+Fluoxetine 20mg capsules (Strides Shasun (UK) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	67769
+Fluoxetine 60mg capsules (Kent Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	60mg	Gold	67888
+Fluoxetine 20mg/5ml oral solution sugar free (Actavis UK Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	68266
+Fluoxetine 20mg capsules (Medreich Plc)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	69525
+Prozac 20mg capsules (Necessity Supplies Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	69542
+Fluoxetine 20mg/5ml oral solution sugar free (Morningside Healthcare Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	69685
+Fluoxetine 10mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	10mg	Gold	69941
+Fluoxetine 20mg capsules (Accord Healthcare Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	71852
+Fluoxetine 20mg/5ml oral solution (Pinewood Healthcare)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	73414
+Fluoxetine 2mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	400microgram/1ml	Gold	74886
+Fluoxetine 40mg capsules (Alliance Healthcare (Distribution) Ltd)	Capsule	Oral	Fluoxetine hydrochloride	40mg	Gold	75068
+Fluoxetine 60mg capsules (Advanz Pharma)	Capsule	Oral	Fluoxetine hydrochloride	60mg	Gold	75247
+Fluoxetine 2.5mg/5ml oral solution	Oral solution	Oral	Fluoxetine hydrochloride	500microgram/1ml	Gold	75645
+Fluoxetine 20mg capsules (Genesis Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	75688
+Fluoxetine 20mg capsules (Almus Pharmaceuticals Ltd)	Capsule	Oral	Fluoxetine hydrochloride	20mg	Gold	75799
+Prozac 20mg/5ml liquid (Necessity Supplies Ltd)	Oral solution	Oral	Fluoxetine hydrochloride	4mg/1ml	Gold	75943
+Faverin 50mg tablets	Tablet	Oral	Fluvoxamine maleate	50.000mg	Aurum	563341000033115
+Fluvoxamine 50mg tablets	Tablet	Oral	Fluvoxamine maleate	50.000mg	Aurum	595541000033113
+Fluvoxamine 100mg tablets	Tablet	Oral	Fluvoxamine maleate	100.000mg	Aurum	592841000033116
+Faverin 100mg tablets	Tablet	Oral	Fluvoxamine maleate	100.000mg	Aurum	561941000033115
+Fluvoxamine 100mg tablets	Tablet	Oral	Fluvoxamine maleate	100mg	Gold	2290
+Fluvoxamine 50mg tablets	Tablet	Oral	Fluvoxamine maleate	50mg	Gold	2880
+Faverin 50mg tablets (Mylan)	Tablet	Oral	Fluvoxamine maleate	50mg	Gold	2897
+Faverin 100mg tablets (Mylan)	Tablet	Oral	Fluvoxamine maleate	100mg	Gold	12123
+Fluvoxamine 100mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Fluvoxamine maleate	100mg	Gold	43518
+Fluvoxamine 100mg tablets (Actavis UK Ltd)	Tablet	Oral	Fluvoxamine maleate	100mg	Gold	44861
+Fluvoxamine 100mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Fluvoxamine maleate	100mg	Gold	48045
+Imipramine 10mg tablets	Tablet	Oral	Imipramine hydrochloride	10.000mg	Aurum	755541000033119
+Imipramine 25mg tablets	Tablet	Oral	Imipramine hydrochloride	25.000mg	Aurum	754241000033115
+Tofranil 25mg tablets	Tablet	Oral	Imipramine hydrochloride	25.000mg	Aurum	1450841000033117
+Surmontil 50mg capsules	Capsule	Oral	Trimipramine maleate	50.000mg	Aurum	1389441000033112
+Trimipramine 50mg capsules	Capsule	Oral	Trimipramine maleate	50.000mg	Aurum	1454741000033115
+Trimipramine 10mg tablets	Tablet	Oral	Trimipramine maleate	10.000mg	Aurum	1471341000033116
+Surmontil 10mg tablets	Tablet	Oral	Trimipramine maleate	10.000mg	Aurum	1396741000033112
+Surmontil 25mg tablets	Tablet	Oral	Trimipramine maleate	25.000mg	Aurum	1396841000033119
+Trimipramine 25mg tablets	Tablet	Oral	Trimipramine maleate	25.000mg	Aurum	1471441000033110
+Imipramine 25mg/5ml oral solution sugar free	Oral solution	Oral	Imipramine hydrochloride	5.000mg/1.000ml	Aurum	5454141000033118
+Imipramine 25mg/5ml oral solution	Oral solution	Oral	Imipramine hydrochloride	5.000mg/1.000ml	Aurum	5328741000033117
+Tofranil 25mg/5ml syrup	Oral solution	Oral	Imipramine hydrochloride	5.000mg/1.000ml	Aurum	1449441000033113
+Imipramine 10mg tablets	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	1310
+Imipramine 25mg tablets	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	1809
+Trimipramine 25mg tablets	Tablet	Oral	Trimipramine maleate	25mg	Gold	2039
+Surmontil 50mg capsules (Sanofi)	Capsule	Oral	Trimipramine maleate	50mg	Gold	2531
+Surmontil 25mg tablets (Sanofi)	Tablet	Oral	Trimipramine maleate	25mg	Gold	2532
+Tofranil 10mg Tablet (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	2579
+Trimipramine 50mg capsules	Capsule	Oral	Trimipramine maleate	50mg	Gold	3196
+Trimipramine 10mg tablets	Tablet	Oral	Trimipramine maleate	10mg	Gold	4310
+Tofranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd)	Oral solution	Oral	Imipramine hydrochloride	5mg/1ml	Gold	4404
+Tofranil 25mg tablets (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	7910
+Imipramine 25mg/5ml oral solution	Oral solution	Oral	Imipramine hydrochloride	5mg/1ml	Gold	8055
+Surmontil 10mg tablets (Sanofi)	Tablet	Oral	Trimipramine maleate	10mg	Gold	8928
+Imipramine 10mg tablets (Teva UK Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	32863
+Praminil 10mg Tablet (DDSA Pharmaceuticals Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	33074
+Imipramine 10mg tablets (Actavis UK Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	34222
+Imipramine 25mg tablets (Actavis UK Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	34355
+Imipramine 25mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	34813
+Imipramine 25mg Tablet (C P Pharmaceuticals Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	34872
+Imipramine 25mg tablets (Teva UK Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	41408
+Imipramine 10mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	41681
+Trimipramine 10mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Trimipramine maleate	10mg	Gold	42228
+Imipramine 25mg/5ml oral solution sugar free	Oral solution	Oral	Imipramine hydrochloride	5mg/1ml	Gold	42247
+Trimipramine 25mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Trimipramine maleate	25mg	Gold	45226
+Trimipramine 10mg tablets (Phoenix Healthcare Distribution Ltd)	Tablet	Oral	Trimipramine maleate	10mg	Gold	53808
+Tofranil 25mg tablets (Lexon (UK) Ltd)	Tablet	Oral	Imipramine hydrochloride	25mg	Gold	56501
+Trimipramine 25mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Trimipramine maleate	25mg	Gold	57978
+Trimipramine 50mg/5ml oral solution	Oral solution	Oral	Trimipramine maleate	10mg/1ml	Gold	65213
+Trimipramine 50mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Trimipramine maleate	50mg	Gold	65445
+Trimipramine 25mg/5ml oral suspension	Oral suspension	Oral	Trimipramine maleate	5mg/1ml	Gold	66493
+Trimipramine 50mg capsules (Waymade Healthcare Plc)	Capsule	Oral	Trimipramine maleate	50mg	Gold	66919
+Imipramine 10mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	67935
+Imipramine 10mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	70287
+Imipramine 10mg tablets (DE Pharmaceuticals)	Tablet	Oral	Imipramine hydrochloride	10mg	Gold	71253
+Isocarboxazid 10mg tablets	Tablet	Oral	Isocarboxazid	10.000mg	Aurum	787141000033110
+Isocarboxazid 10mg tablets	Tablet	Oral	Isocarboxazid	10mg	Gold	12207
+Marplan 10mg Tablet (Cambridge Laboratories Ltd)	Tablet	Oral	Isocarboxazid	10mg	Gold	12503
+Isocarboxazid 10mg Tablet (Cambridge Laboratories Ltd)	Tablet	Oral	Isocarboxazid	10mg	Gold	41731
+Gamanil 70mg tablets	Tablet	Oral	Lofepramine hydrochloride	70.000mg	Aurum	626241000033115
+Feprapax 70mg tablets	Tablet	Oral	Lofepramine hydrochloride	70.000mg	Aurum	2215541000033118
+Lofepramine 70mg tablets	Tablet	Oral	Lofepramine hydrochloride	70.000mg	Aurum	850141000033116
+Lofepramine 70mg/5ml oral solution	Oral solution	Oral	Lofepramine hydrochloride	14.000mg/1.000ml	Aurum	5996641000033111
+Lofepramine 70mg/5ml oral suspension	Oral suspension	Oral	Lofepramine hydrochloride	14.000mg/1.000ml	Aurum	5996741000033119
+Lofepramine 70mg/5ml oral suspension sugar free	Oral suspension	Oral	Lofepramine hydrochloride	14.000mg/1.000ml	Aurum	849241000033115
+Lomont 70mg/5ml oral suspension	Oral suspension	Oral	Lofepramine hydrochloride	14.000mg/1.000ml	Aurum	2078841000033114
+Lofepramine 70mg tablets	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	114
+Gamanil 70mg tablets (Merck Serono Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	2093
+Lofepramine 70mg/5ml oral suspension sugar free	Oral suspension	Oral	Lofepramine hydrochloride	14mg/1ml	Gold	4218
+Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd)	Oral suspension	Oral	Lofepramine hydrochloride	14mg/1ml	Gold	25444
+Lofepramine 70mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	34046
+Lofepramine 70mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	34578
+Lofepramine 70mg tablets (Sterwin Medicines)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	34672
+Lofepramine 70mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	34950
+Lofepramine 70mg Tablet (Teva UK Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	41627
+Lofepramine 70mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd)	Oral suspension	Oral	Lofepramine hydrochloride	14mg/1ml	Gold	43534
+Lofepramine 70mg/5ml oral solution	Oral solution	Oral	Lofepramine hydrochloride	14mg/1ml	Gold	56229
+Lofepramine 70mg tablets (Sandoz Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	56703
+Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	58450
+Lofepramine 70mg tablets (Teva UK Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	60591
+Lofepramine 70mg tablets (DE Pharmaceuticals)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	66100
+Lofepramine 70mg tablets (Mylan)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	67742
+Lofepramine 70mg tablets (Kent Pharmaceuticals Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	68657
+Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	71067
+Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Lofepramine hydrochloride	70mg	Gold	74586
+Maprotiline 10mg tablets	Tablet	Oral	Maprotiline hydrochloride	10.000mg	Aurum	870441000033114
+Ludiomil 10mg tablets	Tablet	Oral	Maprotiline hydrochloride	10.000mg	Aurum	853441000033119
+Ludiomil 25mg tablets	Tablet	Oral	Maprotiline hydrochloride	25.000mg	Aurum	853541000033118
+Maprotiline 25mg tablets	Tablet	Oral	Maprotiline hydrochloride	25.000mg	Aurum	870741000033119
+Maprotiline 50mg tablets	Tablet	Oral	Maprotiline hydrochloride	50.000mg	Aurum	870841000033112
+Ludiomil 50mg tablets	Tablet	Oral	Maprotiline hydrochloride	50.000mg	Aurum	853641000033117
+Ludiomil 75mg tablets	Tablet	Oral	Maprotiline hydrochloride	75.000mg	Aurum	853741000033114
+Maprotiline 75mg tablets	Tablet	Oral	Maprotiline hydrochloride	75.000mg	Aurum	870941000033116
+Maprotiline 25mg tablets	Tablet	Oral	Maprotiline hydrochloride	25mg	Gold	8549
+Ludiomil 25mg tablets (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Maprotiline hydrochloride	25mg	Gold	10645
+Maprotiline 50mg tablets	Tablet	Oral	Maprotiline hydrochloride	50mg	Gold	12100
+Ludiomil 10mg tablets (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Maprotiline hydrochloride	10mg	Gold	12222
+Ludiomil 75mg tablets (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Maprotiline hydrochloride	75mg	Gold	13558
+Ludiomil 50mg tablets (Novartis Pharmaceuticals UK Ltd)	Tablet	Oral	Maprotiline hydrochloride	50mg	Gold	14410
+Maprotiline 10mg tablets	Tablet	Oral	Maprotiline hydrochloride	10mg	Gold	16727
+Maprotiline 75mg tablets	Tablet	Oral	Maprotiline hydrochloride	75mg	Gold	20405
+Mianserin 10mg tablets	Tablet	Oral	Mianserin hydrochloride	10.000mg	Aurum	917541000033110
+Mianserin 20mg tablets	Tablet	Oral	Mianserin hydrochloride	20.000mg	Aurum	917641000033111
+Mianserin 30mg tablets	Tablet	Oral	Mianserin hydrochloride	30.000mg	Aurum	917741000033119
+Mianserin 10mg tablets	Tablet	Oral	Mianserin hydrochloride	10mg	Gold	3083
+Mianserin 20mg tablets	Tablet	Oral	Mianserin hydrochloride	20mg	Gold	4329
+Mianserin 30mg tablets	Tablet	Oral	Mianserin hydrochloride	30mg	Gold	6255
+Bolvidon 10mg Tablet (Organon Laboratories Ltd)	Tablet	Oral	Mianserin hydrochloride	10mg	Gold	7468
+Bolvidon 20mg Tablet (Organon Laboratories Ltd)	Tablet	Oral	Mianserin hydrochloride	20mg	Gold	8144
+Bolvidon 30mg Tablet (Organon Laboratories Ltd)	Tablet	Oral	Mianserin hydrochloride	30mg	Gold	8585
+Norval 20mg Tablet (Bencard)	Tablet	Oral	Mianserin hydrochloride	20mg	Gold	11956
+Norval 30mg Tablet (Bencard)	Tablet	Oral	Mianserin hydrochloride	30mg	Gold	12192
+Norval 10mg Tablet (Bencard)	Tablet	Oral	Mianserin hydrochloride	10mg	Gold	12368
+Mianserin 20mg Tablet (Berk Pharmaceuticals Ltd)	Tablet	Oral	Mianserin hydrochloride	20mg	Gold	47363
+Mirtazapine 30mg tablets	Tablet	Oral	Mirtazapine	30.000mg	Aurum	919641000033115
+Zispin 30mg tablets	Tablet	Oral	Mirtazapine	30.000mg	Aurum	1558041000033118
+Mirtazapine 15mg tablets	Tablet	Oral	Mirtazapine	15.000mg	Aurum	3256741000033118
+Mirtazapine 15mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	15.000mg	Aurum	3029641000033112
+Zispin SolTab 15mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	15.000mg	Aurum	3029841000033113
+Zispin SolTab 30mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	30.000mg	Aurum	3078541000033115
+Mirtazapine 30mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	30.000mg	Aurum	2974841000033114
+Mirtazapine 45mg tablets	Tablet	Oral	Mirtazapine	45.000mg	Aurum	3256841000033111
+Mirtazapine 45mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	45.000mg	Aurum	3029741000033115
+Zispin SolTab 45mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	45.000mg	Aurum	3029941000033117
+Mirtazapine 15mg/ml oral solution sugar free	Oral solution	Oral	Mirtazapine	15.000mg/1.000ml	Aurum	3058741000033113
+Mirtazapine 30mg tablets	Tablet	Oral	Mirtazapine	30mg	Gold	742
+Zispin 30mg tablets (Organon Laboratories Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	4726
+Mirtazapine 15mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	6421
+Mirtazapine 45mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	6481
+Mirtazapine 30mg orodispersible tablets	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	6488
+Mirtazapine 15mg tablets	Tablet	Oral	Mirtazapine	15mg	Gold	6795
+Zispin SolTab 15mg orodispersible tablets (Merck Sharp & Dohme Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	6846
+Mirtazapine 45mg tablets	Tablet	Oral	Mirtazapine	45mg	Gold	6854
+Zispin SolTab 30mg orodispersible tablets (Merck Sharp & Dohme Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	10083
+Zispin SolTab 45mg orodispersible tablets (Merck Sharp & Dohme Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	15268
+Mirtazapine 15mg/ml oral solution sugar free	Oral solution	Oral	Mirtazapine	15mg/1ml	Gold	16154
+Mirtazapine 45mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	45mg	Gold	33337
+Mirtazapine 30mg tablets (Actavis UK Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	40160
+Mirtazapine 45mg orodispersible tablets (Teva UK Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	43234
+Mirtazapine 45mg orodispersible tablets (A A H Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	43235
+Mirtazapine 45mg orodispersible tablets (Accord Healthcare Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	43236
+Mirtazapine 15mg orodispersible tablets (Teva UK Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	43237
+Mirtazapine 15mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	43239
+Mirtazapine 15mg orodispersible tablets (Aurobindo Pharma Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	43241
+Mirtazapine 15mg tablets (Genus Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	43242
+Mirtazapine 15mg orodispersible tablets (Genus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	43246
+Mirtazapine 45mg orodispersible tablets (Genus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	43247
+Mirtazapine 15mg orodispersible tablets (Focus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	43248
+Mirtazapine 30mg orodispersible tablets (A A H Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	43250
+Mirtazapine 15mg orodispersible tablets (A A H Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	43253
+Mirtazapine 45mg orodispersible tablets (Focus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	43256
+Mirtazapine 15mg tablets (Teva UK Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	43257
+Mirtazapine 15mg tablets (Arrow Generics Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	46668
+Mirtazapine 30mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	47945
+Mirtazapine 15mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	Oral solution	Oral	Mirtazapine	15mg/1ml	Gold	47966
+Mirtazapine 30mg orodispersible tablets (Almus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	48185
+Mirtazapine 15mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	48698
+Mirtazapine 45mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	49820
+Zispin SolTab 15mg orodispersible tablets (Necessity Supplies Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	50892
+Mirtazapine 15mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd)	Oral solution	Oral	Mirtazapine	15mg/1ml	Gold	53321
+Zispin SolTab 30mg orodispersible tablets (Necessity Supplies Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	53543
+Mirtazapine 30mg orodispersible tablets (Accord Healthcare Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	53648
+Mirtazapine 15mg tablets (Actavis UK Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	53699
+Mirtazapine 15mg orodispersible tablets sugar free (Sandoz Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	54012
+Mirtazapine 15mg tablets (Medreich Plc)	Tablet	Oral	Mirtazapine	15mg	Gold	54342
+Mirtazapine 15mg tablets (Pfizer Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	54644
+Mirtazapine 30mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	54792
+Mirtazapine 15mg orodispersible tablets (Mylan)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	55482
+Mirtazapine 30mg tablets (Phoenix Healthcare Distribution Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	56209
+Mirtazapine 15mg orodispersible tablets (Pfizer Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	58291
+Mirtazapine 45mg tablets (Actavis UK Ltd)	Tablet	Oral	Mirtazapine	45mg	Gold	58625
+Mirtazapine 30mg orodispersible tablets (Phoenix Healthcare Distribution Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	59694
+Mirtazapine 15mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	59953
+Mirtazapine 45mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	45mg	Gold	59954
+Zispin SolTab 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	60370
+Mirtazapine 30mg tablets (DE Pharmaceuticals)	Tablet	Oral	Mirtazapine	30mg	Gold	60538
+Mirtazapine 15mg/ml oral solution sugar free (DE Pharmaceuticals)	Oral solution	Oral	Mirtazapine	15mg/1ml	Gold	61547
+Mirtazapine 15mg orodispersible tablets (Consilient Health Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	61856
+Mirtazapine 30mg tablets (Teva UK Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	63403
+Mirtazapine 15mg orodispersible tablets (Accord Healthcare Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	64101
+Mirtazapine 45mg orodispersible tablets (Mylan)	Orodispersible tablet	Oral	Mirtazapine	45mg	Gold	64139
+Mirtazapine 45mg tablets (Teva UK Ltd)	Tablet	Oral	Mirtazapine	45mg	Gold	64223
+Mirtazapine 15mg orodispersible tablets (Sigma Pharmaceuticals Plc)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	65555
+Mirtazapine 15mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	66183
+Mirtazapine 15mg orodispersible tablets (Bluefish Pharmaceuticals AB)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	66580
+Mirtazapine 15mg tablets (Aurobindo Pharma Ltd)	Tablet	Oral	Mirtazapine	15mg	Gold	66752
+Zispin 30mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Mirtazapine	30mg	Gold	67272
+Mirtazapine 30mg orodispersible tablets (Almus Pharmaceuticals Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	68052
+Mirtazapine 2mg capsules	Capsule	Oral	Mirtazapine	2mg	Gold	68544
+Mirtazapine 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	Orodispersible tablet	Oral	Mirtazapine	15mg	Gold	68680
+Mirtazapine 30mg tablets (PLIVA Pharma Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	68933
+Mirtazapine 30mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Mirtazapine	30mg	Gold	69005
+Mirtazapine 30mg orodispersible tablets (Aurobindo Pharma Ltd)	Orodispersible tablet	Oral	Mirtazapine	30mg	Gold	69420
+Mirtazapine 30mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Mirtazapine	30mg	Gold	71543
+Mirtazapine 15mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Mirtazapine	15mg	Gold	74557
+Moclobemide 150mg tablets	Tablet	Oral	Moclobemide	150.000mg	Aurum	937241000033118
+Manerix 150mg tablets	Tablet	Oral	Moclobemide	150.000mg	Aurum	868841000033115
+Manerix 300mg tablets	Tablet	Oral	Moclobemide	300.000mg	Aurum	868941000033111
+Moclobemide 300mg tablets	Tablet	Oral	Moclobemide	300.000mg	Aurum	937841000033119
+Moclobemide 150mg tablets	Tablet	Oral	Moclobemide	150mg	Gold	2883
+Moclobemide 300mg tablets	Tablet	Oral	Moclobemide	300mg	Gold	5187
+Manerix 300mg tablets (Meda Pharmaceuticals Ltd)	Tablet	Oral	Moclobemide	300mg	Gold	5832
+Manerix 150mg tablets (Meda Pharmaceuticals Ltd)	Tablet	Oral	Moclobemide	150mg	Gold	9206
+Moclobemide 150mg tablets (Teva UK Ltd)	Tablet	Oral	Moclobemide	150mg	Gold	41747
+Moclobemide 150mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Moclobemide	150mg	Gold	67305
+Dutonin 100mg tablets	Tablet	Oral	Nefazodone hydrochloride	100.000mg	Aurum	489741000033113
+Nefazodone 100mg tablets	Tablet	Oral	Nefazodone hydrochloride	100.000mg	Aurum	966141000033116
+Nefazodone 200mg tablets	Tablet	Oral	Nefazodone hydrochloride	200.000mg	Aurum	966241000033111
+Dutonin 200mg tablets	Tablet	Oral	Nefazodone hydrochloride	200.000mg	Aurum	489841000033115
+Dutonin 100mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Tablet	Oral	Nefazodone hydrochloride	100mg	Gold	3391
+Nefazodone 200mg tablets	Tablet	Oral	Nefazodone hydrochloride	200mg	Gold	4011
+Dutonin 200mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Tablet	Oral	Nefazodone hydrochloride	200mg	Gold	4297
+Nefazodone 100mg tablets	Tablet	Oral	Nefazodone hydrochloride	100mg	Gold	4554
+Nefazodone Starter pack	Starter Pack	Oral	Nefazodone Hydrochloride		Gold	9534
+Dutonin 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Tablet	Oral	Nefazodone hydrochloride	50mg	Gold	63827
+Nefazodone 50mg tablets	Tablet	Oral	Nefazodone hydrochloride	50mg	Gold	67757
+Nortriptyline 10mg tablets	Tablet	Oral	Nortriptyline hydrochloride	10.000mg	Aurum	989141000033111
+Allegron 10mg tablets	Tablet	Oral	Nortriptyline hydrochloride	10.000mg	Aurum	38741000033119
+Allegron 25mg tablets	Tablet	Oral	Nortriptyline hydrochloride	25.000mg	Aurum	38841000033112
+Nortriptyline 25mg tablets	Tablet	Oral	Nortriptyline hydrochloride	25.000mg	Aurum	989241000033116
+Motipress tablets	Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	1.500mg + 30.000mg	Aurum	938841000033118
+Motival 10mg/500microgram tablets	Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	500.000microgram + 10.000mg	Aurum	938941000033114
+Nortriptyline 10mg / Fluphenazine 500microgram tablets	Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	500.000microgram + 10.000mg	Aurum	3179941000033111
+Nortriptyline 10mg/5ml oral solution	Oral solution	Oral	Nortriptyline hydrochloride	2.000mg/1.000ml	Aurum	11072841000033114
+Nortriptyline 10mg/5ml oral suspension	Oral suspension	Oral	Nortriptyline hydrochloride	2.000mg/1.000ml	Aurum	12257841000033117
+Nortriptyline 50mg tablets	Tablet	Oral	Nortriptyline hydrochloride	50.000mg	Aurum	12292341000033116
+Motival 10mg/500microgram tablets (Sanofi)	Tablet	Oral	Fluphenazine hydrochloride/Nortriptyline hydrochloride	500microgram + 10mg	Gold	2936
+Nortriptyline 10mg tablets	Tablet	Oral	Nortriptyline hydrochloride	10mg	Gold	3183
+Nortriptyline 25mg tablets	Tablet	Oral	Nortriptyline hydrochloride	25mg	Gold	3903
+Nortriptyline 10mg Capsule	Capsule	Oral	Nortriptyline Hydrochloride	10mg	Gold	4118
+Allegron 10mg tablets (King Pharmaceuticals Ltd)	Tablet	Oral	Nortriptyline hydrochloride	10mg	Gold	7677
+Nortriptyline 25mg Capsule	Capsule	Oral	Nortriptyline Hydrochloride	25mg	Gold	7678
+Nortriptyline 10mg / Fluphenazine 500microgram tablets	Tablet	Oral	Fluphenazine hydrochloride/Nortriptyline hydrochloride	500microgram + 10mg	Gold	7780
+Motipress tablets (Sanofi-Synthelabo Ltd)	Tablet	Oral	Nortriptyline hydrochloride/Fluphenazine hydrochloride	30mg + 1.5mg	Gold	8493
+Allegron 25mg tablets (King Pharmaceuticals Ltd)	Tablet	Oral	Nortriptyline hydrochloride	25mg	Gold	8640
+Aventyl 25mg Capsule (Eli Lilly and Company Ltd)	Capsule	Oral	Nortriptyline Hydrochloride	25mg	Gold	12353
+Aventyl 10mg/5ml Liquid (Eli Lilly and Company Ltd)	Liquid	Oral	Nortriptyline Hydrochloride	10mg/5ml	Gold	12549
+Nortriptyline 30mg / Fluphenazine 1.5mg tablets	Tablet	Oral	Nortriptyline hydrochloride/Fluphenazine hydrochloride	30mg + 1.5mg	Gold	14578
+Aventyl 10mg Capsule (Eli Lilly and Company Ltd)	Capsule	Oral	Nortriptyline Hydrochloride	10mg	Gold	17183
+Fluphenazine with nortriptyline 500microgramswith10mg Tablet	Tablet	Oral	Nortriptyline Hydrochloride/Fluphenazine Hydrochloride	500mcg + 10mg	Gold	20571
+Nortriptyline 10mg/5ml Liquid	Liquid	Oral	Nortriptyline Hydrochloride	10mg/5ml	Gold	39145
+Nortriptyline 25mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Nortriptyline hydrochloride	25mg	Gold	48216
+Nortriptyline 10mg tablets (King Pharmaceuticals Ltd)	Tablet	Oral	Nortriptyline hydrochloride	10mg	Gold	55970
+Nortriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Nortriptyline hydrochloride	25mg	Gold	63276
+Nortriptyline 10mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Nortriptyline hydrochloride	10mg	Gold	65237
+Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Nortriptyline hydrochloride	25mg	Gold	66201
+Nortriptyline 10mg/5ml oral suspension	Oral suspension	Oral	Nortriptyline hydrochloride	2mg/1ml	Gold	68228
+Nortriptyline 50mg tablets	Tablet	Oral	Nortriptyline hydrochloride	50mg	Gold	69317
+Nortriptyline 10mg/5ml oral solution	Oral solution	Oral	Nortriptyline hydrochloride	2mg/1ml	Gold	72626
+HealthAid 5-HTP HydroxyTryptoPhan 50mg tablets	Modified-release tablet		Oxitriptan	50.000mg	Aurum	4655141000033113
+Lamberts 5-HTP 100mg tablets (Lamberts Healthcare Ltd)	Tablet	Oral	Oxitriptan	100mg	Gold	62427
+Paroxetine 20mg tablets	Tablet	Oral	Paroxetine hydrochloride	20.000mg	Aurum	1042141000033117
+Seroxat 20mg tablets	Tablet	Oral	Paroxetine hydrochloride	20.000mg	Aurum	1278341000033111
+Seroxat 30mg tablets	Tablet	Oral	Paroxetine hydrochloride	30.000mg	Aurum	1278441000033117
+Paroxetine 30mg tablets	Tablet	Oral	Paroxetine hydrochloride	30.000mg	Aurum	1042241000033112
+Paroxetine 10mg tablets	Tablet	Oral	Paroxetine hydrochloride	10.000mg	Aurum	4079041000033115
+Seroxat 10mg tablets	Tablet	Oral	Paroxetine hydrochloride	10.000mg	Aurum	4079141000033116
+Paroxetine 40mg tablets	Tablet	Oral	Paroxetine hydrochloride	40.000mg	Aurum	11755441000033119
+Paroxetine 10mg/5ml oral suspension sugar free	Oral suspension	Oral	Paroxetine hydrochloride	2.000mg/1.000ml	Aurum	1662441000033114
+Seroxat 20mg/10ml liquid	Oral suspension	Oral	Paroxetine hydrochloride	2.000mg/1.000ml	Aurum	1686141000033119
+Paroxetine 20mg tablets	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	50
+Paroxetine 10mg/5ml oral suspension sugar free	Oral suspension	Oral	Paroxetine hydrochloride	2mg/1ml	Gold	527
+Seroxat 20mg tablets (GlaxoSmithKline UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	841
+Paroxetine 30mg tablets	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	1397
+Seroxat 30mg tablets (GlaxoSmithKline UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	1575
+Seroxat 20mg/10ml liquid (GlaxoSmithKline UK Ltd)	Oral suspension	Oral	Paroxetine hydrochloride	2mg/1ml	Gold	3601
+Paroxetine 20mg tablets (Actavis UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	32899
+Paroxetine 20mg tablets (Mylan)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	33978
+Paroxetine 20mg tablets (IVAX Pharmaceuticals UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	34351
+Paroxetine 20mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	34419
+Paroxetine 30mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	34587
+Paroxetine 10mg tablets	Tablet	Oral	Paroxetine hydrochloride	10mg	Gold	35021
+Seroxat 10mg tablets (GlaxoSmithKline UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	10mg	Gold	35112
+Paroxetine 30mg tablets (Actavis UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	40165
+Paroxetine 20mg tablets (Genus Pharmaceuticals Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	40892
+Paroxetine 20mg tablets (Medreich Plc)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	55023
+Seroxat 30mg tablets (Lexon (UK) Ltd)	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	55537
+Paroxetine 10mg tablets (Actavis UK Ltd)	Tablet	Oral	Paroxetine hydrochloride	10mg	Gold	59288
+Paroxetine 30mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Paroxetine hydrochloride	30mg	Gold	64785
+Seroxat 10mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Paroxetine hydrochloride	10mg	Gold	66292
+Paroxetine 10mg/5ml oral solution	Oral solution	Oral	Paroxetine hydrochloride	2mg/1ml	Gold	67259
+Paroxetine 40mg tablets	Tablet	Oral	Paroxetine hydrochloride	40mg	Gold	68325
+Seroxat 20mg tablets (Lexon (UK) Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	73589
+Paroxetine 20mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	73668
+Seroxat 20mg tablets (DE Pharmaceuticals)	Tablet	Oral	Paroxetine hydrochloride	20mg	Gold	74588
+Paroxetine oral liquid			Paroxetine Hydrochloride		Gold	75054
+Phenelzine 15mg tablets	Tablet	Oral	Phenelzine sulfate	15.000mg	Aurum	1079341000033111
+Nardil 15mg tablets	Tablet	Oral	Phenelzine sulfate	15.000mg	Aurum	955241000033110
+Nardil 15mg tablets (Kyowa Kirin Ltd)	Tablet	Oral	Phenelzine sulfate	15mg	Gold	3349
+Phenelzine 15mg tablets	Tablet	Oral	Phenelzine sulfate	15mg	Gold	4321
+Edronax 4mg tablets	Tablet	Oral	Reboxetine mesilate	4.000mg	Aurum	496741000033118
+Reboxetine 4mg tablets	Tablet	Oral	Reboxetine mesilate	4.000mg	Aurum	1165641000033115
+Reboxetine 4mg tablets	Tablet	Oral	Reboxetine mesilate	4mg	Gold	2356
+Edronax 4mg tablets (Pfizer Ltd)	Tablet	Oral	Reboxetine mesilate	4mg	Gold	15163
+Sertraline 50mg tablets	Tablet	Oral	Sertraline hydrochloride	50.000mg	Aurum	1278841000033119
+Lustral 50mg tablets	Tablet	Oral	Sertraline hydrochloride	50.000mg	Aurum	854241000033118
+Lustral 100mg tablets	Tablet	Oral	Sertraline hydrochloride	100.000mg	Aurum	854141000033113
+Sertraline 100mg tablets	Tablet	Oral	Sertraline hydrochloride	100.000mg	Aurum	1278741000033112
+Sertraline 100mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	20.000mg/1.000ml	Aurum	5975341000033119
+Sertraline 50mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	10.000mg/1.000ml	Aurum	4148341000033116
+Sertraline 50mg tablets	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	488
+Sertraline 100mg tablets	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	727
+Lustral 50mg tablets (Pfizer Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	1612
+Lustral 100mg tablets (Pfizer Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	4352
+Sertraline 50mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	10mg/1ml	Gold	7328
+Sertraline 50mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	32401
+Sertraline 50mg tablets (Actavis UK Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	42387
+Sertraline 100mg tablets (Teva UK Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	44944
+Sertraline 50mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	45915
+Sertraline 100mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	20mg/1ml	Gold	49519
+Sertraline 25mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	5mg/1ml	Gold	54081
+Sertraline 150mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	30mg/1ml	Gold	54826
+Sertraline 100mg tablets (PLIVA Pharma Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	54933
+Sertraline 100mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	55146
+Sertraline 50mg tablets (Teva UK Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	55488
+Sertraline 50mg tablets (Mylan)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	58664
+Sertraline 50mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	58723
+Sertraline 100mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	59600
+Sertraline 100mg tablets (Actavis UK Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	61503
+Sertraline 100mg tablets (Bristol Laboratories Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	62692
+Sertraline 50mg tablets (Bristol Laboratories Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	62693
+Sertraline 12.5mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	2.5mg/1ml	Gold	62819
+Sertraline 50mg tablets (Wockhardt UK Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	62927
+Sertraline 100mg tablets (Accord Healthcare Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	62950
+Sertraline 50mg tablets (Milpharm Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	63481
+Sertraline 200mg/5ml oral suspension (Special Order)	Oral Suspension	Oral	Sertraline		Gold	65771
+Sertraline 100mg tablets (Ranbaxy (UK) Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	66413
+Sertraline 100mg tablets (Mylan)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	66560
+Sertraline 50mg tablets (Ranbaxy (UK) Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	67730
+Sertraline 100mg tablets (Milpharm Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	67928
+Sertraline 100mg tablets (Sandoz Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	68756
+Sertraline 50mg tablets (Crescent Pharma Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	69725
+Sertraline 100mg tablets (Crescent Pharma Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	69726
+Sertraline 50mg tablets (Sandoz Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	69898
+Sertraline 20mg/5ml oral suspension	Oral suspension	Oral	Sertraline hydrochloride	4mg/1ml	Gold	73759
+Sertraline 100mg tablets (Wockhardt UK Ltd)	Tablet	Oral	Sertraline hydrochloride	100mg	Gold	73962
+Sertraline 50mg/5ml oral solution	Oral solution	Oral	Sertraline hydrochloride	10mg/1ml	Gold	75405
+Sertraline 50mg tablets (Tillomed Laboratories Ltd)	Tablet	Oral	Sertraline hydrochloride	50mg	Gold	75952
+Tranylcypromine 10mg tablets	Tablet	Oral	Tranylcypromine sulfate	10.000mg	Aurum	1469441000033116
+Parstelin Tablet (GlaxoSmithKline Consumer Healthcare)	Tablet	Oral	Trifluoperazine Hydrochloride/Tranylcypromine Sulphate		Gold	3356
+Tranylcypromine 10mg tablets	Tablet	Oral	Tranylcypromine sulfate	10mg	Gold	3783
+Tranylcypromine with trifluoperazine Tablet	Tablet	Oral	Trifluoperazine Hydrochloride/Tranylcypromine Sulphate		Gold	3955
+Parnate 10mg Tablet (Goldshield Pharmaceuticals Ltd)	Tablet	Oral	Tranylcypromine sulfate	10mg	Gold	10787
+Trifluoperazine with tranylcypromine 1mg + 10mg Tablet	Tablet	Oral	Trifluoperazine Hydrochloride/Tranylcypromine Sulphate	1mg + 10mg	Gold	24890
+Tranylcypromine 10mg tablets (AMCo)	Tablet	Oral	Tranylcypromine sulfate	10mg	Gold	41654
+Trazodone 150mg tablets	Tablet	Oral	Trazodone hydrochloride	150.000mg	Aurum	1473641000033113
+Molipaxin 150mg tablets	Tablet	Oral	Trazodone hydrochloride	150.000mg	Aurum	938741000033111
+Molipaxin 100mg capsules	Capsule	Oral	Trazodone hydrochloride	100.000mg	Aurum	923241000033113
+Trazodone 100mg capsules	Capsule	Oral	Trazodone hydrochloride	100.000mg	Aurum	1455241000033113
+Trazodone 50mg capsules	Capsule	Oral	Trazodone hydrochloride	50.000mg	Aurum	1454641000033112
+Molipaxin 50mg capsules	Capsule	Oral	Trazodone hydrochloride	50.000mg	Aurum	923041000033117
+Molipaxin 50mg/5ml oral liquid	Oral solution	Oral	Trazodone hydrochloride	10.000mg/1.000ml	Aurum	929541000033113
+Trazodone 50mg/5ml oral solution sugar free	Oral solution	Oral	Trazodone hydrochloride	10.000mg/1.000ml	Aurum	1461941000033113
+Trazodone 150mg modified-release tablets	Modified-release tablet	Oral	Trazodone hydrochloride	150.000mg	Aurum	1462241000033110
+Molipaxin CR 150mg tablets	Modified-release tablet	Oral	Trazodone hydrochloride	150.000mg	Aurum	929841000033110
+Trazodone 100mg/5ml oral solution sugar free	Oral solution	Oral	Trazodone hydrochloride	20.000mg/1.000ml	Aurum	12476541000033119
+Trazodone 100mg capsules	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	1730
+Trazodone 50mg capsules	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	3355
+Molipaxin 150mg tablets (Zentiva)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	4003
+Trazodone 150mg tablets	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	4020
+Molipaxin 100mg capsules (Zentiva)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	4194
+Molipaxin 50mg capsules (Zentiva)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	4874
+Trazodone 50mg/5ml oral solution sugar free	Oral solution	Oral	Trazodone hydrochloride	10mg/1ml	Gold	6442
+Molipaxin 50mg/5ml oral liquid (Sanofi)	Oral solution	Oral	Trazodone hydrochloride	10mg/1ml	Gold	8174
+Trazodone 150mg modified-release tablets	Modified-release tablet	Oral	Trazodone hydrochloride	150mg	Gold	12710
+Molipaxin CR 150mg tablets (Aventis Pharma)	Modified-release tablet	Oral	Trazodone hydrochloride	150mg	Gold	13621
+Trazodone 100mg capsules (Mylan)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	19181
+Trazodone 50mg capsules (Mylan)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	29339
+Trazodone 150mg tablets (Teva UK Ltd)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	29857
+Trazodone 150mg tablets (Mylan)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	30983
+Trazodone 50mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	34003
+Trazodone 50mg capsules (Zentiva)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	34421
+Trazodone 150mg tablets (Zentiva)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	34470
+Trazodone 100mg capsules (A A H Pharmaceuticals Ltd)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	34580
+Trazodone 50mg capsules (Teva UK Ltd)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	41609
+Trazodone 100mg capsules (Teva UK Ltd)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	41709
+Trazodone 100mg capsules (Zentiva)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	41710
+Trazodone 150mg/5ml oral suspension	Oral suspension	Oral	Trazodone hydrochloride	30mg/1ml	Gold	55137
+Trazodone 250mg/5ml oral solution	Oral solution	Oral	Trazodone hydrochloride	50mg/1ml	Gold	55138
+Trazodone 25mg/5ml oral suspension	Oral suspension	Oral	Trazodone hydrochloride	5mg/1ml	Gold	57226
+Trazodone 50mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)	Oral solution	Oral	Trazodone hydrochloride	10mg/1ml	Gold	59931
+Trazodone 75mg/5ml oral solution	Oral solution	Oral	Trazodone hydrochloride	15mg/1ml	Gold	61657
+Trazodone 50mg/5ml oral solution	Oral solution	Oral	Trazodone hydrochloride	10mg/1ml	Gold	61842
+Trazodone 100mg/5ml oral solution	Oral solution	Oral	Trazodone hydrochloride	20mg/1ml	Gold	65152
+Trazodone 10mg/5ml oral solution	Oral solution	Oral	Trazodone hydrochloride	2mg/1ml	Gold	66749
+Trazodone Oral solution	Oral Solution		Trazodone Hydrochloride		Gold	69355
+Trazodone 50mg/5ml oral solution sugar free (AMCo)	Oral solution	Oral	Trazodone hydrochloride	10mg/1ml	Gold	70521
+Trazodone 50mg capsules (Actavis UK Ltd)	Capsule	Oral	Trazodone hydrochloride	50mg	Gold	71031
+Trazodone 100mg/5ml oral solution sugar free	Oral solution	Oral	Trazodone hydrochloride	20mg/1ml	Gold	72291
+Trazodone 150mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	73419
+Trazodone 150mg tablets (Actavis UK Ltd)	Tablet	Oral	Trazodone hydrochloride	150mg	Gold	73636
+Trazodone 100mg capsules (Actavis UK Ltd)	Capsule	Oral	Trazodone hydrochloride	100mg	Gold	73639
+Tryptophan 500mg tablets	Tablet	Oral	Tryptophan	500.000mg	Aurum	1474141000033117
+Optimax 500mg tablets	Tablet	Oral	Tryptophan	500.000mg	Aurum	1008941000033114
+Tryptophan 500mg capsules	Capsule	Oral	Tryptophan	500.000mg	Aurum	8247941000033115
+Optimax 500mg capsules	Capsule		Tryptophan	500.000mg	Aurum	8248041000033117
+Tryptophan 500mg tablets	Tablet	Oral	Tryptophan	500mg	Gold	4422
+Optimax 500mg tablets (Intrapharm Laboratories Ltd)	Tablet	Oral	Tryptophan	500mg	Gold	5611
+Pacitron 500mg Tablet (Rorer Pharmaceuticals Ltd)	Tablet	Oral	Tryptophan	500mg	Gold	12221
+Optimax wv Tablet (E. Merck)	Tablet	Oral	Tryptophan	500mg	Gold	20504
+Tryptophan 500mg capsules	Capsule	Oral	Tryptophan	500mg	Gold	54686
+Optimax 500mg capsules (Intrapharm Laboratories Ltd)	Capsule	Oral	Tryptophan	500mg	Gold	54747
+Venlafaxine 37.5mg tablets	Tablet	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	1512241000033119
+Efexor 37.5mg tablets	Tablet	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	499041000033111
+ViePax 37.5mg tablets	Tablet	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	4897041000033116
+ViePax 75mg tablets	Tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4896941000033117
+Efexor 75mg tablets	Tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	499141000033110
+Venlafaxine 75mg tablets	Tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	1512341000033112
+Venlafaxine 50mg tablets	Tablet	Oral	Venlafaxine hydrochloride	50.000mg	Aurum	1512441000033118
+Efexor 50mg tablets	Tablet	Oral	Venlafaxine hydrochloride	50.000mg	Aurum	499241000033115
+Bonilux XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	8265541000033112
+Amphero XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	9300741000033116
+Vencarm XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	12194841000033116
+Venlasov XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	12389941000033119
+Venzip XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	12641641000033114
+Efexor XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	498441000033112
+Venlafaxine 75mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	1509341000033117
+Vexarin XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4896841000033113
+Vensir XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4899541000033115
+Tifaxin XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4817741000033119
+Winfex XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4824641000033113
+Trixat XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4818641000033112
+Tardcaps XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4897141000033117
+Vaxalin XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4937041000033115
+Venaxx XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4936641000033111
+Politid XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4957841000033111
+Rodomel XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4817441000033114
+Foraven XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5234041000033119
+Venlaneo XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	6029741000033113
+Ranfaxine XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5328941000033119
+Alventa XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5813341000033119
+Venlablue XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5812541000033115
+Tonpular XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5574641000033117
+Depefex XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5896341000033112
+Mentaven XL 75mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5889541000033114
+Amphero XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	9300841000033114
+Bonilux XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	8265641000033113
+Venzip XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	12641541000033113
+Venlasov XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	12390341000033114
+Vencarm XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	12194541000033118
+Mentaven XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5889641000033110
+Tonpular XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5574741000033114
+Venlablue XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5812641000033119
+Alventa XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5813141000033117
+Ranfaxine XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5329041000033111
+Venlaneo XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	6029641000033116
+Depefex XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5896441000033118
+Foraven XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5234141000033115
+Rodomel XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4817341000033115
+Venaxx XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4936741000033119
+Politid XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4957941000033115
+Vaxalin XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4937141000033116
+Tardcaps XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4897241000033112
+Trixat XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4818541000033111
+Winfex XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4824541000033112
+Tifaxin XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4817641000033111
+Vensir XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4899641000033119
+Vexarin XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4896741000033115
+Venlafaxine 150mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	1509241000033110
+Efexor XL 150mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	498541000033113
+Venlafaxine 37.5mg/5ml oral suspension	Oral suspension	Oral	Venlafaxine hydrochloride	7.500mg/1.000ml	Aurum	4498541000033116
+Venlafaxine 37.5mg/5ml oral solution	Oral solution	Oral	Venlafaxine hydrochloride	7.500mg/1.000ml	Aurum	6000441000033115
+Venlafaxine 75mg/5ml oral solution	Oral solution	Oral	Venlafaxine hydrochloride	15.000mg/1.000ml	Aurum	5008041000033112
+Venlafaxine 75mg/5ml oral suspension	Oral suspension	Oral	Venlafaxine hydrochloride	15.000mg/1.000ml	Aurum	8867941000033118
+Sunveniz XL 150mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	8298641000033115
+Venladex XL 150mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	12605441000033117
+Venlafaxine 150mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4823641000033111
+ViePax XL 150mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	4823841000033112
+Venlalic XL 150mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg	Aurum	5052941000033116
+Venladex XL 75mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	12605341000033111
+Sunveniz XL 75mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	8298741000033112
+Venlalic XL 75mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	5053041000033114
+Venlafaxine 75mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4823541000033110
+ViePax XL 75mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg	Aurum	4823741000033119
+Venladex XL 225mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	12605541000033116
+Venlalic XL 225mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	5052841000033112
+Venlafaxine 225mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	5052741000033119
+Venlalic XL 37.5mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	6161841000033118
+Venlafaxine 37.5mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	6161741000033111
+Venlafaxine 37.5mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	8885441000033118
+Venlablue XL 37.5mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	8885541000033117
+Vencarm XL 37.5mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.500mg	Aurum	12194741000033114
+Venlafaxine 225mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	10730041000033110
+Efexor XL 225mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	10730141000033114
+Vensir XL 225mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	11693641000033117
+Vencarm XL 225mg capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	225.000mg	Aurum	12194641000033117
+Venlafaxine 37.5mg tablets	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	301
+Venlafaxine 75mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	470
+Efexor 37.5mg tablets (Wyeth Pharmaceuticals)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	623
+Venlafaxine 75mg tablets	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	1222
+Efexor XL 75mg capsules (Pfizer Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	1474
+Venlafaxine 50mg tablets	Tablet	Oral	Venlafaxine hydrochloride	50mg	Gold	2617
+Venlafaxine 150mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	2654
+Efexor XL 150mg capsules (Pfizer Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	5710
+Efexor 50mg tablets (Wyeth Pharmaceuticals)	Tablet	Oral	Venlafaxine hydrochloride	50mg	Gold	6274
+Efexor 75mg tablets (Wyeth Pharmaceuticals)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	9182
+Venlafaxine 37.5mg/5ml oral suspension	Oral suspension	Oral	Venlafaxine hydrochloride	7.5mg/1ml	Gold	13237
+Venlafaxine 75mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	39359
+Venlafaxine 150mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150mg	Gold	39360
+Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	39770
+Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	39809
+ViePax XL 75mg tablets (Dexcel-Pharma Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	40048
+ViePax XL 150mg tablets (Dexcel-Pharma Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	150mg	Gold	40049
+Venlafaxine 225mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	225mg	Gold	40054
+Venlalic XL 75mg tablets (Ethypharm UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	40059
+Venlalic XL 150mg tablets (Ethypharm UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	150mg	Gold	40062
+Vensir XL 150mg capsules (Morningside Healthcare Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	40092
+Vensir XL 75mg capsules (Morningside Healthcare Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	40277
+Venlalic XL 225mg tablets (Ethypharm UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	225mg	Gold	40407
+Venaxx XL 150mg capsules (AMCo)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	40514
+Venaxx XL 75mg capsules (AMCo)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	40515
+Vexarin XL 150mg capsules (Mylan)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	40517
+ViePax 37.5mg tablets (Dexcel-Pharma Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	40764
+Tardcaps XL 75mg capsules (IXL Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	40815
+Tardcaps XL 150mg capsules (IXL Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	40817
+ViePax 75mg tablets (Dexcel-Pharma Ltd)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	40917
+Rodomel XL 75mg capsules (Teva UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	41033
+Politid XL 75mg capsules (Actavis UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	41299
+Rodomel XL 150mg capsules (Teva UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	41314
+Vexarin XL 75mg capsules (Mylan)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	42600
+Venlafaxine 75mg modified-release capsules (Sandoz Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	43203
+Venlafaxine 150mg modified-release capsules (Sandoz Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	43334
+Politid XL 150mg capsules (Actavis UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	43673
+Foraven XL 75mg capsules (Forum Products Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	43968
+Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	44936
+Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	44937
+Depefex XL 150mg capsules (Chiesi Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	45664
+Venlafaxine 37.5mg modified-release tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	45806
+Venlalic XL 37.5mg tablets (Ethypharm UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	45818
+Depefex XL 75mg capsules (Chiesi Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	45959
+Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	48199
+Venlablue XL 75mg capsules (Creo Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	49511
+Venlablue XL 150mg capsules (Creo Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	50081
+Venlafaxine 150mg/5ml oral solution	Oral solution	Oral	Venlafaxine hydrochloride	30mg/1ml	Gold	50934
+Efexor XL 150mg capsules (Waymade Healthcare Plc)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	51280
+Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	51361
+Venlafaxine 37.5mg/5ml oral solution	Oral solution	Oral	Venlafaxine hydrochloride	7.5mg/1ml	Gold	51699
+Alventa XL 75mg capsules (Consilient Health Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	52074
+Alventa XL 150mg capsules (Consilient Health Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	52516
+Tonpular XL 75mg capsules (Wockhardt UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	52716
+Venlafaxine 75mg/5ml oral solution	Oral solution	Oral	Venlafaxine hydrochloride	15mg/1ml	Gold	53326
+Venlafaxine			Venlafaxine Hydrochloride		Gold	55424
+Venlafaxine 150mg Modified-release capsule (Hillcross Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	55501
+Venlafaxine 75mg tablets (Teva UK Ltd)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	56457
+Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	56662
+Tonpular XL 150mg capsules (Wockhardt UK Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	57751
+Venladex XL 75mg tablets (Dexcel-Pharma Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	58681
+Venladex XL 150mg tablets (Dexcel-Pharma Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	150mg	Gold	58726
+Venlafaxine 37.5mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.5mg	Gold	58837
+Venlablue XL 37.5mg capsules (Creo Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.5mg	Gold	59035
+Venlafaxine 75mg modified-release capsules (Kent Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	59563
+Sunveniz XL 150mg tablets (Sun Pharmaceuticals UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	150mg	Gold	59753
+Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	59923
+Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	60449
+Venlafaxine 150mg modified-release capsules (Kent Pharmaceuticals Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	60549
+Sunveniz XL 75mg tablets (Sun Pharmaceuticals UK Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	60843
+Venlafaxine 37.5mg tablets (Teva UK Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	60895
+Bonilux XL 150mg capsules (Sandoz Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	61236
+Venlafaxine 150mg/5ml oral suspension	Oral suspension	Oral	Venlafaxine hydrochloride	30mg/1ml	Gold	62734
+Venlafaxine 75mg/5ml oral suspension	Oral suspension	Oral	Venlafaxine hydrochloride	15mg/1ml	Gold	63268
+Venlafaxine 75mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	63859
+Venlafaxine 225mg modified-release capsules	Modified-release capsule	Oral	Venlafaxine hydrochloride	225mg	Gold	65666
+Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	65738
+Efexor XL 225mg capsules (Pfizer Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	225mg	Gold	65899
+Venlafaxine 75mg tablets (DE Pharmaceuticals)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	66437
+Efexor 37.5mg tablets (Waymade Healthcare Plc)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	67271
+Efexor 75mg tablets (Dowelhurst Ltd)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	67288
+Vensir XL 225mg capsules (Morningside Healthcare Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	225mg	Gold	67563
+Venlafaxine 37.5mg tablets (Alliance Healthcare (Distribution) Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	68050
+Venlafaxine 75mg modified-release capsules (Mawdsley-Brooks & Company Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	68876
+Vencarm XL 37.5mg capsules (Aspire Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	37.5mg	Gold	69819
+Vencarm XL 75mg capsules (Aspire Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	70315
+Venlafaxine 37.5mg tablets (DE Pharmaceuticals)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	70353
+Vencarm XL 150mg capsules (Aspire Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	70420
+Vencarm XL 225mg capsules (Aspire Pharma Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	225mg	Gold	70495
+Venlafaxine 150mg modified-release capsules (DE Pharmaceuticals)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	70806
+Venlasov XL 75mg capsules (Sovereign Medical Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	70931
+Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	71257
+Venlafaxine 150mg modified-release capsules (Mawdsley-Brooks & Company Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	71782
+Amphero XL 75mg capsules (Mylan)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	71806
+Venlasov XL 150mg capsules (Sovereign Medical Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	71932
+Venlafaxine 75mg tablets (Actavis UK Ltd)	Tablet	Oral	Venlafaxine hydrochloride	75mg	Gold	73658
+Venlafaxine 37.5mg tablets (Actavis UK Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	73667
+Efexor XL 150mg capsules (Necessity Supplies Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	74010
+Efexor XL 75mg capsules (Dowelhurst Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	74011
+Venladex XL 225mg tablets (Dexcel-Pharma Ltd)	Modified-release tablet	Oral	Venlafaxine hydrochloride	225mg	Gold	74516
+Venzip XL 75mg capsules (Milpharm Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	75263
+Venlafaxine 37.5mg tablets (Almus Pharmaceuticals Ltd)	Tablet	Oral	Venlafaxine hydrochloride	37.5mg	Gold	75525
+Winfex XL 150mg capsules (Zentiva)	Modified-release capsule	Oral	Venlafaxine hydrochloride	150mg	Gold	75848
+Efexor XL 75mg capsules (Lexon (UK) Ltd)	Modified-release capsule	Oral	Venlafaxine hydrochloride	75mg	Gold	75894
+Vortioxetine 10mg tablets	Tablet	Oral	Vortioxetine hydrobromide	10.000mg	Aurum	10617041000033113
+Brintellix 10mg tablets	Tablet	Oral	Vortioxetine hydrobromide	10.000mg	Aurum	10617341000033110
+Brintellix 20mg tablets	Tablet	Oral	Vortioxetine hydrobromide	20.000mg	Aurum	10617441000033116
+Vortioxetine 20mg tablets	Tablet	Oral	Vortioxetine hydrobromide	20.000mg	Aurum	10617141000033112
+Vortioxetine 5mg tablets	Tablet	Oral	Vortioxetine hydrobromide	5.000mg	Aurum	10616941000033112
+Brintellix 5mg tablets	Tablet	Oral	Vortioxetine hydrobromide	5.000mg	Aurum	10617241000033117
+Vortioxetine 5mg tablets	Tablet	Oral	Vortioxetine hydrobromide	5mg	Gold	65482
+Vortioxetine 10mg tablets	Tablet	Oral	Vortioxetine hydrobromide	10mg	Gold	65483
+Vortioxetine 20mg tablets	Tablet	Oral	Vortioxetine hydrobromide	20mg	Gold	66890
+Brintellix 10mg tablets (Lundbeck Ltd)	Tablet	Oral	Vortioxetine hydrobromide	10mg	Gold	67874
+Brintellix 20mg tablets (Lundbeck Ltd)	Tablet	Oral	Vortioxetine hydrobromide	20mg	Gold	69991
+Brintellix 5mg tablets (Lundbeck Ltd)	Tablet	Oral	Vortioxetine hydrobromide	5mg	Gold	69992
