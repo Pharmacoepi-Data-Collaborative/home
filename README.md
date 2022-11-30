@@ -3,9 +3,19 @@
 
 We are a network of researchers from UCL and beyond who use pharmacoepidemiology methods with secondary datasets. 
 
-We currently host termly online events with expert speakers, research competitions & problem-solving workshops. 
+This is our online knowledge hub - a resource for pharmacoepi researchers to share knowledge and code. 
 
-On these pages, you will find our online knowledge hub - a resource for pharmacoepi researchers to share knowledge and code. We will also post learning materials, collaboration opportunities and details of our events on these pages. 
+🎯 These pages are currently in development - the below list shows which areas we have up and running (with links) and the areas that are still in plan:
+- [X] [Area for sharing re-usable code lists to identify clinical conditions, medications and other patient characteristics within electronic health record data](/codelists)
+- [ ] Area for sharing re-usable code for data management
+- [ ] Area for sharing re-usable code for statistical analysis
+- [ ] Information on different electronic health records accessible for pharmacoepi researh around the world
+- [ ] Information on statistical methods used in pharmacoepi
+- [ ] Problem solving forum
+- [ ] Collaboration platform
+
+We also host termly online [events](/events&training) with expert speakers, research competitions & problem-solving workshops. Details of our next event can be found here [events](/events&training).
+
 
 #### What is pharmacoepi?
 
