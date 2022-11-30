@@ -2,7 +2,7 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
+We have used a template from the **Reproducible Project Template** repository, developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
 
 This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
