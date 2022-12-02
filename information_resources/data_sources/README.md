@@ -3,7 +3,10 @@
 Here you will find information on different data sources that can be used in pharmacoepi research. This list is a work in progress - if you have any information on additional data sources, please consider contributing :) More information on how to contribute can be found [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/HOW_TO_CONTRIBUTE.md).
 
 
-We currently have information from the following countries, listed in alphabetical order below: Hong Kong, UK, USA. 
+We currently have information from the following countries, listed in alphabetical order below: 
+- [Hong Kong](https://github.com/Pharmacoepi-Data-Collaborative/home/tree/Main/information_resources/data_sources#hong-kong)
+- [UK](https://github.com/Pharmacoepi-Data-Collaborative/home/tree/Main/information_resources/data_sources#uk)
+- [USA](https://github.com/Pharmacoepi-Data-Collaborative/home/tree/Main/information_resources/data_sources#usa) 
 
 ## Hong Kong 
 
