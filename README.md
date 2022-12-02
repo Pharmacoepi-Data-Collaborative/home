@@ -9,7 +9,7 @@ This is our online knowledge hub - a resource for pharmacoepi researchers to sha
 - [X] [Area for sharing re-usable code lists to identify clinical conditions, medications and other patient characteristics within electronic health record data](/codelists)
 - [ ] Area for sharing re-usable code for data management
 - [ ] Area for sharing re-usable code for statistical analysis
-- [ ] Information on different electronic health records accessible for pharmacoepi researh around the world
+- [X] [Information on different data sources](/information_resources/data_sources)
 - [ ] Information on statistical methods used in pharmacoepi
 - [ ] Problem solving forum
 - [ ] Collaboration platform
