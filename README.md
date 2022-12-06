@@ -1,4 +1,4 @@
-# UCL Pharmacoepi Data Collaborative
+# UCL Pharmacoepi Data Collaborative :)
 ## Welcome to the UCL Pharmacoepi Data Collaborative's Online Knowledge Hub!
 
 We are a network of researchers from UCL and beyond who use pharmacoepidemiology methods with secondary datasets. 
