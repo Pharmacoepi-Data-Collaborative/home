@@ -4,8 +4,8 @@ Thank you for taking the time to contribute to this project. 🎉
 
 We have used a template from the **Reproducible Project Template** repository, developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
 
-This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
-You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
+This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science for pharmacoepidemiology who would like to get involved.
+You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the  materials.
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
 
 ⭐️ You are acknowledged for all kinds of contributions
@@ -22,6 +22,8 @@ To add a contributor, comment on Issue or Pull Request (where the contributor is
 
 Look through our currently open [issues](../../issues) to troubleshoot an issue or participate in an ongoing discussion by commenting.
 
+Do you have code lists to contribute? You can email these directly to us for uploading by emailing [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk). Please explain the purpose of the lists, how they were developed (including by whom) and links to examples of where they have been used for pharmacoepidemiology research.
+
 You can also share this repository with someone who might be interested to get involved.
 
 ⏳ I've got 15 minutes - tell me what I should do
@@ -30,6 +32,8 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 
 You can also read different issues in this repository and comment where you would like to be involved.
+
+Do you have code lists, data management code or statistical code to contribute? If you are comfortable using Github, you can add these directly to the relevant folders on these pages. Please ensure the code is annotated (for data management or statistical code), and for all code provide information on how/why it was developed (including by whom) and links to examples of where they have been used for pharmacoepidemiology research. All additions will be reviewed before going live for public viewing. If you are not comfortable with Github, you can email any contributions to [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk).
 
 🎉 It's my life's mission to enable reproducibility in data science and research
 ---
@@ -49,7 +53,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
   - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
   - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
-  - If you would like to submite code lists, statistical code, or any learning materials but are not confident with the above methods, please reach out to **Annie Jeffery by emailing [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk)**.
+  - If you would like to submit code lists, statistical code, or any learning materials but are not confident with the above methods, please reach out to **Annie Jeffery by emailing [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk)**.
 
 📫 Contact
 ---
