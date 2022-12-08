@@ -1,4 +1,4 @@
-# CPRD code lists for diabetes
+# CPRD (Gold and Aurum) code lists for diabetes
 
 These code lists were developed by Annie Jeffery, Division of Psychiatry, UCL.
 
