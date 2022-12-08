@@ -4,6 +4,8 @@ These code lists were developed by researchers from the Division of Psychiatry, 
 
 There is a separate list for CPRD Gold and CPRD Aurum. In CPRD data, the variables medcode (Gold) and medcodeid (Aurum) can be used to identify records relating to anxiety.
 
+When you load the files, ensure you read the medcode and medcodeid variables as characters.
+
 
 ♻️ License
 ---
