@@ -7,10 +7,9 @@ This is our online knowledge hub - a resource for pharmacoepi researchers to sha
 
 🎯 These pages are currently in development - the below list shows which areas we have up and running (with links) and the areas that are still in plan:
 - [X] [Area for sharing re-usable code lists to identify clinical conditions, medications and other patient characteristics within electronic health record data](/codelists)
-- [ ] Area for sharing re-usable code for data management
-- [ ] Area for sharing re-usable code for statistical analysis
+- [X] Area for sharing re-usable code for data management and statistical analysis (/code)
 - [X] [Information on different data sources](/information_resources/data_sources)
-- [ ] Information on statistical methods used in pharmacoepi
+- [X] [Information on statistical methods used in pharmacoepi] )/information_resources/statistical_methods)
 - [ ] Problem solving forum
 - [ ] Collaboration platform
 
