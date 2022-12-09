@@ -1,4 +1,4 @@
-# CPRD code list for antidepressants
+# CPRD Gold and Aurum code list for antidepressants
 
 This code list was developed by Annie Jeffery, Division of Psychiatry, UCL.
 
