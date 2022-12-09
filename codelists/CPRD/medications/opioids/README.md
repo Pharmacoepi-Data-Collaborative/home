@@ -4,7 +4,7 @@ This code list was developed by Annie Jeffery, Division of Psychiatry, UCL.
 
 The list was developed by searching the CPRD product dictionary "drugsubstance" variable, for terms matching opioids in the [BNF Chapter 4.7.2](https://openprescribing.net/bnf/040702/).
 
-There are separate files for CPRD Gold (opioidCodesA) and Aurum (opioidCodesG)
+There are separate files for CPRD Gold (opioidCodesG) and Aurum (opioidCodesA).
 
 When you load the files, ensure you read the product code columns as character variables.
 
