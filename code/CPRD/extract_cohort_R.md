@@ -23,7 +23,7 @@ head(anxCodesG)
 ## Step 3.1: Load list of patients with registrationstart and end dates from CPRD Aurum
 Load patient file (note - adjust colClasses depending if you have different columns - the below intends to read patid, regstartdate and regenddate - the rest are NULL):
 ```{r}
-pats <- read.delim("//live.rd.ucl.ac.uk/ritd-ag-project-rd00qv-jfhay18/Annie/D1/CPRDAurum/patientsAurumD1.txt", header = TRUE, colClasses = c(rep("character", 1), rep("NULL", 5),  rep("character",1), rep("NULL", 1),  rep("character",1), rep("NULL", 2)))
+pats <- read.delim("Filepath/CPRDAurum/patientsAurum.txt", header = TRUE, colClasses = c(rep("character", 1), rep("NULL", 5),  rep("character",1), rep("NULL", 1),  rep("character",1), rep("NULL", 2)))
 ```
 Format dates (missing regenddate is imputed as end of follow-up period):
 ```{r}
@@ -69,7 +69,7 @@ anxietyObsA <- unique(anxietyObsA)
 ## Step 4.1: Load list of patients with start and end dates from CPRD Gold
 Load patient file (note - adjust colClasses depending if you have different columns - the below intends to read patid, frd and tod - the rest are NULL):
 ```{r}
-pats <- read.delim("Filepath/CPRDGold/patientsGoldD1.txt", header = TRUE, colClasses = c(rep("character", 1), rep("NULL", 7),  rep("character",1), rep("NULL", 4),  rep("character",1), rep("NULL", 3)))
+pats <- read.delim("Filepath/CPRDGold/patientsGold.txt", header = TRUE, colClasses = c(rep("character", 1), rep("NULL", 7),  rep("character",1), rep("NULL", 4),  rep("character",1), rep("NULL", 3)))
 ```
 
 Format dates (missing tod is imputed as end of follow-up period):
