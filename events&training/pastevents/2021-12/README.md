@@ -8,12 +8,7 @@ Many thanks to Dr Alex Walker for the fantastic keynote talk – we hope it has 
 - Co-piloting programme: https://www.thedatalab.org/blog/191/opensafely-co-pilot-programme-assisting-users-on-their-opensafely-journey/
 
 ## “5 Minute Methods” competition
-A big thank you to Kate Lewis from UCL, and congratulations to John Tazare from LSHTM on the winning “5 Minute Methods” presentation. See below for project titles and bios of participants: 
-- *High-dimensional propensity scores in UK EHRs*. John Tazare is a Research Fellow at LSHTM working on methods for confounder adjustment in pharmaco-epidemiological studies.
-https://www.lshtm.ac.uk/aboutus/people/tazare.john 
-
-- *Modelling trajectories of asthma in childhood using administrative data”*. Kate Lewis is a Research Fellow in epidemiology at UCL’s dept. of population, policy and practice.
-https://iris.ucl.ac.uk/iris/browse/profile?upi=KMLEW61
+A big thank you to Kate Lewis from UCL, and congratulations to John Tazare from LSHTM on the winning “5 Minute Methods” presentation. John's slides on high-dimensional propensity scores are [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/information_resources/statistical_methods/high_density_propensity_scores.pdf).
 
 
 ## Workshop summary: “Pharmaco-epi knowledge hub – rapid requirements gathering and live wireframe co-production” ([see also slides](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/events%26training/pastevents/2021-12/Pharmacoepi_Online_Knowledge_Hub_Codevelopment_Consultation.pdf))
