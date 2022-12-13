@@ -1,0 +1,77 @@
+Code	n	ConsultationType	Group
+1672871000006114	2896955	GP Surgery	Face to face
+1572871000006117	2356187	Awaiting clinical code migration to EMIS Web	Exclude
+87821000000119	1124865	Externally entered note	Exclude
+87941000000117	1024592	Administration note	Exclude
+62251000000110	706998	Scanned document	Exclude
+62151000000116	349905	Telephone consultation	Telephone
+62181000000110	315445	Laboratory result	Exclude
+90461000000113	170042	Other note	Exclude
+63431000000112	129378	Third party consultation	Exclude
+1672851000006116	104004	Face to face consultation	Face to face
+63341000000114	103639	Home visit note	Home visit
+173141000006118	73875	Repeat prescription	Exclude
+63371000000115	71127	Hospital outpatient report	Exclude
+1809171000006114	64911	Routine consultation	Face to face
+62211000000111	44329	Clinic note	Face to face
+1807271000006114	39425	Inbound document	Exclude
+282730013	36906	Medication requested	Exclude
+301141000000112	35117	Seen in GP unit	Face to face
+62141000000119	26954	Telephone call to a patient	Telephone
+294641000000113	17694	Non-consultation medication data	Exclude
+1772691000000111	17295	Outbound referral	Exclude
+63381000000118	15522	Telephone call from a patient	Telephone
+1780456010	11131	Telephone triage encounter	Telephone
+62131000000111	9030	Hospital inpatient report	Exclude
+1764461000006112	6851	Outbound referral	Exclude
+294671000000119	6349	Non-consultation data	Exclude
+1809161000006119	5066	Urgent consultation	Face to face
+62191000000112	4199	Mail to patient	Exclude
+63471000000114	3710	OOH report	Out of hours
+62241000000112	3637	Nursing home visit note	Home visit
+285368015	3621	Emergency appointment	Face to face
+1809181000006112	3593	Emergency consultation	Face to face
+1672621000006114	2980	Walk-in clinic	Face to face
+2219601000000111	2726	School visit note	Home visit
+1672891000006110	2717	Telephone call to relative/carer	Telephone
+63421000000110	2536	Mail from patient	Exclude
+63451000000117	2494	Night visit note	Out of hours
+62101000000117	2490	Residential home visit note	Home visit
+1672911000006112	2457	Discussion with colleague	Exclude
+285327012	1722	Telephone encounter	Telephone
+1672901000006114	1649	Telephone call from relative/carer	Telephone
+1779001000006111	1515	Other consultation medium used	Telephone
+1948811000006117	552	Enterprise consultation	Telephone
+1931821000006119	541	Same day appointment	Face to face
+1958701000006114	541	Online communication	Telephone
+1898071000006117	360	Hospital inpatient note	Exclude
+1672921000006116	326	Case conference	Exclude
+1780459015	326	E-mail received from patient	Telephone
+285464019	275	District nurse visit	Home visit
+1809191000006110	257	Extended hours consultation	Face to face
+480941000000110	212	Nurse telephone triage	Telephone
+1780460013	207	E-mail sent to patient	Telephone
+1672881000006112	147	Face to face consultation with relative/carer	Face to face
+1672861000006119	125	Group consultation	Exclude
+1850001000006116	97	Follow up attendance face to face	Face to face
+1773301000006111	89	E-mail consultation	Telephone
+1778991000006111	86	Consultation via SMS text message	Telephone
+285196018	59	Seen in hospital ward	Exclude
+584851000000115	48	Seen in urgent care centre	Exclude
+63441000000115	40	Children's home visit note	Home visit
+1879181000006116	33	Discussion with other professional	Exclude
+1912201000006110	28	Multidisciplinary team meeting without patient	Exclude
+62081000000111	21	Radiology result	Exclude
+87781000000110	17	Twilight visit note	Out of hours
+1928501000006119	16	Seen in rapid access clinic at GP surgery	Face to face
+241721000006114	10	Patient initiated enc. NOS	Face to face
+600831000000112	7	Consultation via multimedia	Telephone
+1849991000006116	4	First telephone consultation	Telephone
+2367851000000112	4	Email received from third party	Exclude
+1210168013	2	Progress report	Exclude
+1839331000006117	2	Seen in chronic obstructive pulmonary disease clinic	Face to face
+1912191000006112	2	Multidisciplinary team meeting with patient	Face to face
+482291000000111	2	SMS text message sent to patient	Exclude
+285223014	1	Seen in diabetic clinic	Face to face
+600851000000117	1	Consultation via video conference	Telephone
+661661000000111	1	E-mail sent to carer	Telephone

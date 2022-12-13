@@ -1,0 +1,63 @@
+Code	ConsultationType	n	Group
+9	Surgery consultation	3424071	Face to face
+19	Administration	2109139	Exclude
+14	Repeat Issue	1724458	Exclude
+15	Other	1438285	Exclude
+16	Results recording	1202391	Exclude
+22	Third Party Consultation	920005	Exclude
+13	Letter from Outpatients	348413	Exclude
+1	Clinic	302744	Face to face
+10	Telephone call from a patient	156604	Telephone
+21	Telephone call to a patient	136610	Telephone
+33	Triage	50009	Face to face
+39	Medicine Management	49838	Face to face
+8	"Out of hours, Non Practice"	49523	Out of hours
+17	Mail to patient	49091	Exclude
+11	Acute visit	41972	Face to face
+12	Discharge details	33325	Exclude
+27	Home Visit	31459	Home visit
+18	Emergency Consultation	25386	Face to face
+59	Non-consultation data	22108	Exclude
+58	Non-consultation medication data	20764	Exclude
+20	Casualty Attendance	17983	Exclude
+3	Follow-up/routine visit	17334	Face to face
+5	Mail from patient	5710	Exclude
+7	"Out of hours, Practice"	3489	Out of hours
+30	Nursing Home Visit	3471	Home visit
+31	Residential Home Visit	3207	Home visit
+29	NHS Direct Report	2294	Exclude
+2	"Night visit, Deputising service"	1970	Out of hours
+53	Referral Letter	1519	Exclude
+4	"Night visit, Local rota"	1403	Out of hours
+55	Telephone Consultation	1401	Telephone
+34	Walk-in Centre	1385	Face to face
+6	"Night visit , practice"	1285	Out of hours
+25	Day Case Report	1195	Exclude
+43	Data Transferred from other system	1022	Exclude
+36	Co-op Surgery Consultation	650	Face to face
+23	Hospital Admission	625	Exclude
+35	Co-op Telephone advice	523	Telephone
+37	Co-op Home Visit	192	Home visit
+26	GOS18 Report	188	Exclude
+38	Minor Injury Service	162	Exclude
+32	Twilight Visit	98	Out of hours
+24	Children's Home Visit	81	Home visit
+47	Hospital Inpatient Report	76	Exclude
+28	Hotel Visit	74	Home visit
+52	Radiology Result	45	Exclude
+61	Extended Hours	44	Face to face
+54	Social Services Report	16	Exclude
+40	Community Clinic	15	Face to face
+51	Radiology Request	15	Exclude
+50	Night Visit	10	Out of hours
+49	Laboratory Request	8	Exclude
+56	Template Entry	5	Exclude
+60	ePharmacy message	5	Exclude
+44	Health Authority Entry	4	Exclude
+57	GP to GP communication transaction	1	Exclude
+0	Data Not Entered	0	Exclude
+41	Community Nursing Note	0	Exclude
+42	Community Nursing Report	0	Exclude
+45	Health Visitor Note	0	Exclude
+46	Health Visitor Report	0	Exclude
+48	Initial Post Discharge Review	0	Exclude
