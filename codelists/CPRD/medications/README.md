@@ -3,6 +3,9 @@
 Here you will find code lists that can be used to identify:
 - medications prescribed
 
+Soon to be added:
+- antipsychotics
+
 Where available, information on how the code list has been created, comparison to other existing code lists and references to research using the code lists will be provided.
 
 These code lists are free to reuse, but please acknowledge the relevant team as described for each individual list and in line with our licensing requirements (described below).
