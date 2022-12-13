@@ -1,8 +1,8 @@
 # Confounding by indication
 
-At our December 2022 Winter Meeting we will be discussing the issue of confounding by indication in the context of polypharmacy. 
+At our December 2022 Winter Meeting we discussed the issue of confounding by indication in the context of polypharmacy. 
 
-The following page describes the issue, and the discussion items for the workshop. At the end of the workshop we will be adding notes from the discussion. We then invite users to contribute resources on methods used to address this key problem in pharmacoepidemiology. We will be offering a voucher worth £50 to £100 for the best contribution! More details below... :)
+The following page describes the issue and notes from our workshop discussion. We have now opened the competition to contribute resources on methods used to address confounding by indication in pharmacoepidemiology. We will be offering a voucher worth £50 to £100 for the best contribution! More details below... :)
 
 ## Background on pharmacoepi research in polypharmacy
 
@@ -14,17 +14,11 @@ Strict inclusion criteria and the complex characteristics of people who use mult
 
 Confounding by indication occurs when the observed effect of a medication is not caused by the medication itself, but by the condition for which the medication is prescribed. In the case of polypharmacy, observed outcomes such as adverse effects, poor adherence, or poor quality of life, may in fact be a result of multimorbidity (either specific conditions or the cumulative burden of multiple conditions), rather than the medications themselves. As the condition for which a medication is prescribed is likely to be highly correlated with the prescribing of the medication, adjusting for the condition as a confounder may cause overfitting of our models, and not resolve the issue of confounding by indication. On the other hand, clinical characteristics that might lead to the prescribing of a medication, such as disease severity, may not be available in the data, and so may lead to unmeasured confounding by indication. 
 
-## Key questions to address in our workshop
-
-1) Where might confounding by indication (i.e. the effect of multimorbidity vs the effect of polypharmacy) be an issue in polyparmacy pharmacoepi research? Do you have any experience of this?
-
-2) How can we address this problem?
-
 ## Further reading
 - [Kyriacou D, Lewis R J. *Confounding by indication in clinical research.* JAMA. 2016;316(17):1818-1819. DOI: 10.1001/jama.2016.16435](https://jamanetwork.com/journals/jama/fullarticle/2576568)
 - [Sendor R, Stürmer T.  *Core concepts in pharmacoepidemiology: Confounding by indication and the role of active comparators.* Pharmacoepidemiol Drug Saf. 2022; 31( 3): 261- 269. DOI: 10.1002/pds.5407](https://onlinelibrary.wiley.com/doi/full/10.1002/pds.5407)
 
-## Post-workshop contribution competition
+## Contribution competition
 
 **Do you know any examples methods that can adequately address confounding by indication in pharmacoepi research using secondary data?**
 
@@ -40,3 +34,14 @@ We are offering vouchers of £50-100 for the best contribution to these pages of
   - All of the above, plus contribution of code / code lists that have been used to address the issue
 
 Details of how to contribute can be found [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/HOW_TO_CONTRIBUTE.md). Or if you are not comfortable using Github, you can email contributions directly to [annie.jeffery.09@ucl.ac.uk](mailto:annie.jeffery.09@ucl.ac.uk)
+
+## Notes from the workshop discussion
+- Question 1: What are some examples you have come across of confounding by indication in pharmacoepi research:
+  - Some medications used in diabetes may cause skin conditions as an adverse effect, but how skin conditions may also be a result of diabetes itself
+  - Increasing the dose of a medication or switching treatment may lead to adverse effects, however, these effects may also be a symptom of an uncontrolled condition, which prompted the dose change/medication switch
+  - Some medications may have side effects that result in suicide, however, suicide may also be the result of the psychological condition for which the medication is prescribed
+- Question 2: What are some methods that we can use to address confounding by indication in pharmacoepi research:
+  - In clinical practice, we can see if symptoms resolve when a medication is discontinued, which may mean the symptoms are caused by the condition rather than the medication - this could be an option to explore confounding by indication in pharmacoepi research
+  - Active comparators may be a solution to address confounding by indication, where drugs are compared to other drugs, rather than to taking no drug
+  - Self-controlled case series may be an option to compare medication effects according to the timing of when they occur within an individual
+  - Target trials that compare treatment strategies in individuals who meet the threashold for treatment
