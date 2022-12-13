@@ -1,21 +1,25 @@
 # Events and training
 Here you will find information about our latest and past events and training.
 
-## Upcoming Winter Meeting Tuesday 13th December 2022: 11.00-12.30 GMT 
+## Winter Meeting Report December 2022
 
-The Pharmaco-Epi Data Collaborative Winter Meeting is here! Join us for:
-- High profile keynote talk on using data science to improve the use of medicines
-- The launch of our online knowledge hub: with sharable code, learning resources and a collaboration platform
-- In depth focus on polypharmacy: talks on polypharmacy research and an interaction problem solving workshop
+Thank you for everyone who attended and contributed to our Winter Meeting. We had 47 attendees for a highly informative session with lots of great discussion. 100% of attendees who completed our feedback poll said that they enjoed the event and that they were encouraged them to carry out further pharmacoepi research.
 
-Are you working with pharmaco-epidemiology methods or prescription data? Following our successful opening seminars, we are continuing to support a network of e-researchers using pharmaco-epi methods with datasets. We are pleased to announce our next event. Registration is free and open to anyone working in academia or public healthcare services, please sign up at: https://www.eventbrite.co.uk/e/ucl-pharmaco-epi-collaborative-winter-seminar-tickets-473926867017 
+### Key note talk
 
-**Agenda:**
+Thank you to Professor Reecha Sofat for presenting her work on *Using Data Science to improve the use of medicines - an insight from medicines analytics across the UK*. Professor Sofat is the Breckenridge Chair in Clinical Pharmacology and Therapeutics, Head of Department for Pharmacology and Therapeutics at the University of Liverpool and Clinical Vice President of the British Pharmacological Society. We will shortly be uploading information from Reecha's talk with references to the research presented. 
 
-**11:00 – 11:30** *Keynote talk: “Using Data Science to improve the use of medicines - an insight from medicines analytics across the UK”* –  Professor Reecha Sofat (Breckenridge Chair in Clinical Pharmacology and Therapeutics; Head of Department, Pharmacology and Therapeutics, University of Liverpool; Clinical Vice President, British Pharmacological Society)
-									
-**11:30 – 11:40** *Launch of the UCL Pharmaco-Epi Data Collaborative’s Online Knowledge Hub* – In our last meeting, we held a workshop to understand what researchers needed from an online knowledge hub in pharmacoepidemiology. Today we are launching the first pages! Join us for a guided tour to find code lists, data management/statistical code, information on data sources, learning resources, a place to collaborate and keep up to date with the Pharmaco-Epi Data Collaborative. 
+### Launch of the Polypharmacy Data Collaborative's Online Knowledge Hub
 
-**11:40 – 12:00** *Polypharmacy in electronic health record data – short talks*
+Today we launched these Github pages and gave attendees a whistlestop tour. 100% of attendees who completed our feedback poll said they would use the Knowledge Hub. We hope it provides a valuable resource and that many of you will also consider contributing. Some key features that people would most like to see developed are:
+- Statistical/data management code (90%)
+- Code lists (80%)
+- Methods tutorials (80%)
+- Info on pharm-epi courses/conferences (70%)
+- Info on data sources (50%)
+- Collaboration opportunities (50%)
+- Problem-solving forum (50%)
 
-**12:00 – 12:30** *Interactive workshop on how to approach polypharmacy in electronic health record data* – What are the key issues when examining polypharmacy in electronic health record data and how do we overcome these? There will be a gift voucher prize for the best team contribution!
+### Problem solving workshop - confounding by indication for polypharmacy
+
+We discussed how confounding by indication can be a major issue for pharmacoepi research in polypharmacy. More details of the workshop with notes from the discussion can be found [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/events%26training/workshops/confounding_by_indication.md). We are invite you to contribute knowledge on methods to address confounding by indication, and are offering a £50-100 voucher prize for the best contribution. Details of how to contribute can be found [here](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/events%26training/workshops/confounding_by_indication.md)
