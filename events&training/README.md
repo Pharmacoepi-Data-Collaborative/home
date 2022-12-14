@@ -7,7 +7,7 @@ Thank you for everyone who attended and contributed to our Winter Meeting. We ha
 
 ### Key note talk
 
-Thank you to Professor Reecha Sofat for presenting her work on *Using Data Science to improve the use of medicines - an insight from medicines analytics across the UK*. Professor Sofat is the Breckenridge Chair in Clinical Pharmacology and Therapeutics, Head of Department for Pharmacology and Therapeutics at the University of Liverpool and Clinical Vice President of the British Pharmacological Society. We will shortly be uploading information from Reecha's talk with references to the research presented. 
+Thank you to Professor Reecha Sofat for presenting her work on *Using Data Science to improve the use of medicines - an insight from medicines analytics across the UK*. Professor Reecha Sofat is the Breckenridge Chair in Clinical Pharmacology and Therapeutics, Head of Department for Pharmacology and Therapeutics at the University of Liverpool and Clinical Vice President of the British Pharmacological Society. Reecha talked to us about harnessing UK-wide prescription and dispensing records for pharmacoepidemiological research. Her first example described a study of the decline in new antihypertensive prescriptions during the pandemic and its potential cardiovascular disease ramifications. Then Reecha discussed a study of prevalent and incident prescriptions of the teratogenic anti-epileptic/ mood-stabilising drug Sodium Valproate in women of child-bearing age. She used this example to highlight regional inequities in alerts for potentially harmful prescribing, before summarising the overarching benefits and challenges of using this data. 
 
 ### Launch of the Polypharmacy Data Collaborative's Online Knowledge Hub
 
