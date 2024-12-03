@@ -5,13 +5,11 @@ We are a network of researchers from UCL and beyond who use pharmacoepidemiology
 
 This is our online knowledge hub - a resource for pharmacoepi researchers to share knowledge and code. We also host termly online [events](/events&training) with expert speakers, research competitions & problem-solving workshops. Details of our next event can be found [here](/events&training).
 
-🎯 These pages are currently in development - the below list shows which areas we have up and running (with links) and the areas that are still in plan:
+🎯 These pages are currently in development - the below list shows which areas we have up and running (with links):
 - [X] [Area for sharing re-usable code lists to identify clinical conditions, medications and other patient characteristics within electronic health record data](/codelists)
 - [X] [Area for sharing re-usable code for data management and statistical analysis](/code)
 - [X] [Information on different data sources](/information_resources/data_sources)
 - [X] [Information on statistical methods used in pharmacoepi](/information_resources/statistical_methods)
-- [ ] Problem solving forum
-- [ ] Collaboration platform
 
 We very much encourage contributions to these pages, in the name of open science for pharmacoepi! :) See our [How to Contribute](https://github.com/Pharmacoepi-Data-Collaborative/home/blob/Main/HOW_TO_CONTRIBUTE.md) page for more information.
 
