@@ -23,10 +23,10 @@ The use of big data sets, such as large UK primary care databases like Clinical 
 
 <table>
   <tr>
-    <td align="center"><a href="https://profiles.ucl.ac.uk/74470"><img src="/images/annie.png" width="100px;" alt=""/><br /><sub><b>Annie Jeffery</b></sub></a><br /></td>
-    <td align="center"><a href="https://profiles.ucl.ac.uk/74315"><img src="/images/cini.png" width="100px;" alt=""/><br /><sub><b>Cini Bhanu</b></sub></a><br /></td>
-    <td align="center"><a href="https://profiles.ucl.ac.uk/8655-sophie-eastwood"><img src="/images/sophie.png" width="100px;" alt=""/><br /><sub><b>Sophie Eastwood</b></sub></a><br /></td>
-    <td align="center"><a href="https://profiles.ucl.ac.uk/84716"><img src="/images/alvin.png" width="90px;" alt=""/><br /><sub><b>Alvin Richards-Belle</b></sub></a>
+    <td align="center"><a href="https://profiles.ucl.ac.uk/74470"><img src="./images/annie.png" width="100px;" alt=""/><br /><sub><b>Annie Jeffery</b></sub></a><br /></td>
+    <td align="center"><a href="https://profiles.ucl.ac.uk/74315"><img src="./images/cini.png" width="100px;" alt=""/><br /><sub><b>Cini Bhanu</b></sub></a><br /></td>
+    <td align="center"><a href="https://profiles.ucl.ac.uk/8655-sophie-eastwood"><img src="./images/sophie.png" width="100px;" alt=""/><br /><sub><b>Sophie Eastwood</b></sub></a><br /></td>
+    <td align="center"><a href="https://profiles.ucl.ac.uk/84716"><img src="./images/alvin.png" width="90px;" alt=""/><br /><sub><b>Alvin Richards-Belle</b></sub></a>
       <br /></td>
     
   </tr>
