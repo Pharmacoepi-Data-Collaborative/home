@@ -1,4 +1,4 @@
-# Event report - Winter Meeting December 2012
+# Event report - Winter Meeting December 2021
 
 ## Keynote talk: Dr Alex Walker, epidemiologist at The DataLab in Oxford
 Bio: *"I’ve previously worked with electronic health record data such as CPRD/HES before coming to Oxford 5 years ago. Our team at The Datalab is focused on making health research and NHS analytics more open, reproducible and robust. We’ve been working on OpenSAFELY.org since March 2020."*
