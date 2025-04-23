@@ -1,28 +1,31 @@
 # Events and training
 Here you will find information about our latest and past events and training.
 
-## NEXT MEETING - 16 JUNE 2023 10:00-12:00 GMT+1 via Zoom
+# UCL Pharmacoepidemiology Data Collaborative: Spring 2025 Meeting
+## Wednesday 7th May 2025, 10:00-11:30 (BST), via Zoom
+Please register in advance on Eventbrite for the link: https://www.eventbrite.co.uk/e/ucl-pharmacoepidemiology-data-collaborative-spring-2025-meeting-tickets-1318784753699
 
-**The Pharmaco-Epi Data Collaborative Summer Meeting is here! Join us for:
-•	High profile keynote talk on target trial emulation studies
-•	5 Minute methods competition for PhD and early career researchers
-•	Optional workshop on how to apply a target trial emulation framework to a research question using electronic health record data
-**
+Are you working with pharmacoepidemiology methods or prescription data? Do you want to learn about cutting-edge techniques and meet like-minded researchers?
 
-Are you working with pharmaco-epidemiology methods or prescription data? We are continuing to support a network of researchers using pharmaco-epi methods with routine datasets. We are pleased to announce our next event! Registration is free and open to all via the following link: https://www.eventbrite.co.uk/e/pharmacoepi-summer-meeting-2023-tickets-634578821337
+We are delighted to announce our next event. Registration is free and open to all.
+ 
 
+# Schedule
 
+10:00 – 10:05 Introduction and update on the Pharmacoepidemiology Data Collaborative. Annie Jeffery, Cini Bhanu, Sophie Eastwood, Alvin Richards-Belle
 
-### Programme
+10:05 – 10:45 Keynote talk – Optimising type 2 diabetes prescribing using prediction models based on routinely available clinical features – Dr John Dennis, Associate Professor of Health Data Science and Wellcome Trust Fellow, University of Exeter. Dr Dennis will discuss his recent work, published in the Lancet, on the development and validation of a prediction model to assist clinician choice of diabetes medication (https://doi.org/10.1016/S0140-6736(24)02617-5).
 
-**10:00 – 10:30 Keynote talk: “Target trial emulation design: why, when and how to use this method.”**
+10:45 – 11:20 “5 Minute Methods” COMPETITION - £50 prize to be won! We would like to invite early and mid-career researchers and PhD students to participate in our competition by giving a 5-minute presentation on your research. The presentation could be on study results, a protocol, analysis plan or any other aspect that you may wish to share and present. If interested, please contact alvin.richards-belle.21@ucl.ac.uk by 5pm on April 25th. 
 
-Professor Bianca De Stavola, Professor of Medical Statistics, Department of Population, Policy and Practice @ University College London. Professor De Stavola specialises in life-course epidemiology with a particular interest in mediation analysis. Over the past few years, she has been working to develop methods for target trial emulation.
+11:20 – 11:30 Competition winner announcement and closing remarks
 
-**10:30 – 11:00 “5 Minute Methods” COMPETITION - £50 prize to be won!**
+Opportunity to give feedback and suggest topics for next session.
+ 
+Hope to see you there!
 
-We would like to invite you to participate in our competition by giving a 5 minute presentation on your research. The presentations will be judged by based on their contribution to pharmaco-epi research AND ability to share methodology. The winner will receive a £50 gift voucher and be featured on our website. Please add a competition ticket entry to your Eventbrite registration or email: annie.jeffery.09@ucl.ac.uk to enter.
+Best wishes,
 
-**11:00 – 12:00 Optional target trial emulation workshop**
+Annie, Cini, Sophie, and Alvin
 
-Our keynote speaker, Professor Bianca De Stavola will lead this workshop, where we will work through an example of applying a target trial emulation framework to a research question using electronic health records. Further resources and code will be signposted at the end of the session. Please add a workshop ticket entry to your Eventbrite registration if you would like to stay on for this session.
+UCL Pharmacoepidemiology Data Collaborative
